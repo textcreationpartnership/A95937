@@ -1,0 +1,931 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vindication of a true Protestant, and faithfull servant to his church, Daniel Whitby, rector of Thoyden-Mount in Essex. From articles exhibited against him in the exchequer-chamber at Westminster, by a few schismaticall, tempestuous, illiterate heedlesse people: together with a sermon preached at Rumford the last visitation in Essex, in defence of the liturgie of the Church of England, which is most objected in these articles.</title>
+            <author>Whitby, Daniel, b. 1609 or 10.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 104 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95937</idno>
+            <idno type="STC">Wing V468</idno>
+            <idno type="STC">Thomason E40_34</idno>
+            <idno type="STC">ESTC R19242</idno>
+            <idno type="EEBO-CITATION">99860620</idno>
+            <idno type="PROQUEST">99860620</idno>
+            <idno type="VID">112744</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112744)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 7:E40[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vindication of a true Protestant, and faithfull servant to his church, Daniel Whitby, rector of Thoyden-Mount in Essex. From articles exhibited against him in the exchequer-chamber at Westminster, by a few schismaticall, tempestuous, illiterate heedlesse people: together with a sermon preached at Rumford the last visitation in Essex, in defence of the liturgie of the Church of England, which is most objected in these articles.</title>
+                  <author>Whitby, Daniel, b. 1609 or 10.</author>
+                  <author>Whitby, Daniel, b. 1609 or 10. Vindication of the forme of common prayers vsed in the Church of England.</author>
+               </titleStmt>
+               <extent>[4], 41, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, printer to the universitie,</publisher>
+                  <pubPlace>Oxford[i.e. London] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This is a London counterfeit.  Cf. Madan.</note>
+                  <note>"The vindication of the forme of common prayers vsed in the Church of England; .. by Daniel Whitby, .." Oxford, 1644 has special t.p. on p. [19].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "April: 9th:".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whitby, Daniel, b. 1609 or 10.</term>
+               <term>Church of England --  Liturgy --  Early works to 1800.</term>
+               <term>Visitations, Ecclesiastical --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:112744:1" rendition="simple:additions"/>
+                  <p>THE VINDICATION Of a true PROTESTANT, and faithfull Servant to his Church, DANIEL WHITBY, Rector of THOYDEN-MOUNT in ESSEX.</p>
+                  <p>From Articles exhibited againſt him in the <hi>Exchequer-Chamber</hi> at <hi>Weſtminſter,</hi> By a few Schiſmaticall, tempeſtuous, illi<g ref="char:EOLhyphen"/>terate heedleſſe People: <hi>Together</hi> With a Sermon Preached at RUMFORD the laſt Viſitation in ESSEX, in defence of the <hi>Liturgie</hi> of the Church of ENGLAND, which is moſt objected in theſe ARTICLES.</p>
+                  <q>
+                     <bibl>
+                        <hi>ESAY 5.3.</hi>
+                     </bibl>
+                     <p>Judge, I pray you, betwixt me and my Vineyard.</p>
+                  </q>
+                  <q>
+                     <bibl>
+                        <hi>HEB. 12.3.</hi>
+                     </bibl>
+                     <p>Conſider him that endured ſuch contradiction of ſinners againſt himſelfe, leſt you be wearie and faint in your minds.</p>
+                  </q>
+                  <p>
+                     <hi>OXFORD,</hi> Printed by LEONARD LICHFIELD, Printer to the Univerſitie, 1644.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:112744:2"/>
+                  <pb facs="tcp:112744:2"/>
+                  <p>THE DEDICATION: TO The moſt Glorious and Bleſſed TRINITIE, The Searcher of all Hearts, the Wit<g ref="char:EOLhyphen"/>neſſe of my Thoughts, Words, and Lines, the Maker of all Things, and Judge of all Men; DANIEL WHITBY, a poore Creature, a Worme and no Man, and yet an Image of that Great Piece: In token of his faithfulneſſe to his Copie, and deliverie of this Sermon, makes bold to call upon thoſe Divine Powers, as Wit<g ref="char:EOLhyphen"/>neſſe of the Worke, and Publication.</p>
+               </div>
+            </front>
+            <body>
+               <div type="vindication">
+                  <pb facs="tcp:112744:3"/>
+                  <pb n="1" facs="tcp:112744:3"/>
+                  <head>The Vindication of a true PROTESTANT.</head>
+                  <p>HAving my Living ſequeſtred, I am now at leyſure to looke upon the Cauſe; being eaſed of the Pulpit, I make bold to viſit the Preſſe. There was never any itch or inclination in my nature to appeare in Print, but that the blaſphemie of the multitude compells me. I have lived theſe three yeares in the ayre of Reproaches; a Popiſh Prieſt, Malignant, falſe-Doctrine-Preacher, what not? but ſince I have parted with my Living, the noyſe is greater: now they fill the ayre and Coun<g ref="char:EOLhyphen"/>trey with their malicious Revels, triumphing, trampling, ſinging the <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, they make the Countrey Echo with their acclamations. Who can blame me, if in Juſtice and Chartie to my ſelfe, I preſent the ſtate of the buſineſſe to the world, being not aſhamed to give an account of my manner of Life Doctrine, and Tryall?</p>
+                  <p>'Twice was my Peace and Innocence moleſted by their Ar<g ref="char:EOLhyphen"/>ticles.</p>
+                  <p>The firſt Summons were laſt <hi>Auguſt,</hi> in Harveſt, two weekes after my Lord <hi>Conway's</hi> departure from <hi>London;</hi> by the opportu<g ref="char:EOLhyphen"/>nitie you may gueſſe at the foundation of this attempt: as ſoone as he was gone, they invaded his Family, and fetcht up me; before, they thought the attempt deſperate. The Articles were equally divided for number; tenne exhibited in the laſt Summer, tenne more the <hi>Chriſtmas</hi> following.</p>
+                  <div n="1" type="article">
+                     <head>The firſt Article.</head>
+                     <p>
+                        <hi>That he is an enemie to Preaching,</hi>
+                        <note place="margin">WITHESSES, John Field-Suſan. Field. Ed. Prudden</note> 
+                        <hi>never Preaching but once on the Lords day, yet not ſuffering his Pariſhioners to goe to other Churches to heare Sermons, when they had none at home on the Lords day, charging them to the contrary, ſaying, The People have too much
+<pb n="2" facs="tcp:112744:4"/>knowledge; and if it were not for ſome honourable respects, he would not Preach ſo oft as he did; and ſaid, if his People wanted any thing, it ſhould be Preaching.</hi>
+                     </p>
+                     <p>Which Article hath foure Branches; Not Preaching, Forbidding men to goe, Inveighing againſt Knowledge, Threatning the want.</p>
+                     <p>
+                        <hi>What ſay you,</hi>
+                        <note place="margin">
+                           <hi>M. WHITE. Queſt. ANSWER.</hi> Six yeares I have beene a Minister.</note> 
+                        <hi>M.</hi> Whitby, <hi>to not Preaching? Doe you Preach but once a day?</hi>
+                     </p>
+                     <p>Ever ſince I have beene a Miniſter, I have Preached once on the Sabbath, beſides Catechiſing at opportunities: for theſe two laſt yeares, and upwards, I have Preached twice on the Sabbath, beſides Faſts, and other occaſions: if this be to be an enemie to Preaching, I have no more to ſay for my ſelfe.</p>
+                     <p>Here the Pariſhioners were called in, and did all teſtifie the ſame.</p>
+                     <p>
+                        <hi>You forbad them to goe to Sermons,</hi>
+                        <note place="margin">M. WHITE.</note> 
+                        <hi>when there was none in the afternoon.</hi>
+                     </p>
+                     <p>No man ever gave more libertie to his Pariſhioners then my ſelfe,<note place="margin">ANSWER.</note> cheriſhi g and commending theſe three Accuſers often for going to Sermons; yet ſeeing them grow headſtrong, and runne contrarie to my expectation, I forbad the men one day, to trie their obedience; and becauſe the Woman conſtantly and wilfully avoided Prayers in the Morning, I charged her (for ſatisfaction) to come in the afternoone, which ſhe deſpiſed: but never were they once troubled or Preſented for going, nor twice forbidden.</p>
+                     <p>
+                        <hi>You ſaid,</hi>
+                        <note place="margin">M. WHITE.</note> 
+                        <hi>the People had too much knowledge, and envied them Preaching.</hi>
+                     </p>
+                     <p>If I deſtroy the things I build,<note place="margin">ANSWER.</note> I make my ſelfe a tranſgreſſor: I dayly laboured to advance their knowledge, therefore cannot be thought to envie it: But this line is ſnatcht abruptly out of its Context and frame: I uſe to ſpeake it <hi>Comparativè,</hi> viz. <hi>You have too much knowledge, unleſſe I could ſee more practiſe; too much Preaching, unleſſe you ſhew more thankefulneſſe.</hi> That line may be envious in an abrupt view, which is appoſite in its ſitua<g ref="char:EOLhyphen"/>tion. Prettie, when Miniſters muſt be wounded with the ſplinters of their Sermons, without head or tayl, inference, or coherence conſidered.</p>
+                     <pb n="3" facs="tcp:112744:4"/>
+                     <p> 
+                        <hi>You threatned, if they wanted any thing,</hi>
+                        <note place="margin">M. WHITE.</note> 
+                        <hi>it ſhould be Preaching.</hi>
+                     </p>
+                     <p>They are bound to thanke me, and not to accuſe;<note place="margin">ANSWER.</note> becauſe if I threatned, I have beene better then my word: they never wanted that.</p>
+                  </div>
+                  <div n="2" type="article">
+                     <head>The ſecond Article.</head>
+                     <p>
+                        <hi>That he hath beene alwayes a maintainer of Superſtatious Innova<g ref="char:EOLhyphen"/>tions,</hi>
+                        <note place="margin">Joh. Field. Suſan. Field. Ed. Prudden</note> 
+                        <hi>threatning to Preſent the Officers, for not ſetting up the Rayles about the Communion Table with ſpeed, refuſing to adminiſter the Sacrament to ſuch as would not kneele at the Rayles; and ſaid, That whoſoever would not conforme to thoſe Orders of the Church (as he called them) then injoyned, and by him practiſed, were no better then Witches and Devils; and publiquely in the Church deſired God, not to heare the Prayers of thoſe that would not joyne with him in all his performances in the Church.</hi>
+                     </p>
+                     <p>Which hath five Branches.</p>
+                     <p>
+                        <hi>You have beene a maintainer of Superſtitious Innovations.</hi>
+                        <note place="margin">M. WHITE.</note> 
+                        <note place="margin">ANSWER.</note>
+                     </p>
+                     <p>I have beene as utter a ſtranger to Superſtitions and Innovations as any in the Clergie,<note place="margin">There was no ſuperſtitious practiſe layd to my charge in all my tryals: For the Rayles, I practiſ'd no more to them, or at them, then without them.</note> never tranſported with Epiſco<g ref="char:EOLhyphen"/>pall Innovations, nor now affected to Popular; but kept me cloſe to the ancient Reformation of the Church of <hi>England,</hi> and her eſtabliſhed Lawes, which I yet magnifie.</p>
+                     <p>
+                        <hi>You threatned to preſent the Officers, for not ſetting up the Rayles.</hi>
+                        <note place="margin">M. WHITE.</note>
+                     </p>
+                     <p>Wee were threatned to be preſented at <hi>London</hi> Office,<note place="margin">ANSWER.</note> and <hi>Rumford</hi> Viſitation, which I told the Officers and bade them look to themſelves: <hi>John Jeyes,</hi> Church-Warden, was called in, and denyed any ſuch thing, witneſſing he had an Order from the Arch-Deacon to ſet them up: wee were ſo farre from forwardneſſe, that wee were the lateſt in that obſervance in the Countrey.</p>
+                     <p>
+                        <hi>You refuſed to adminiſter the Sacrament to them that did not come up to the Rayles; by Name,</hi> Suſanna Field.<note place="margin">M. WHITE.</note>
+                     </p>
+                     <p>I never refuſed to adminiſter the Sacrament,<note place="margin">ANSWER.</note> nor put back any all my time, but the Inceſtuous Siſter of <hi>Edward Gibs,</hi> my Accuſer, whom be protected in her ſhame, queſtioned me hotly for debar<g ref="char:EOLhyphen"/>ring
+<pb n="4" facs="tcp:112744:5"/>her the Sacrament, and bore me this grudge ever ſince: If any miſs'd the Sacrament beſides, let them thanke themſelves, and not complaine of me. I did my Dutie openly in the Church according to the <hi>Rubrick (If any have not Received in either kind, or both, let them ſpeake, or ſignifie)</hi> there was no intimation of any that wanted, and ſo I went to <hi>Thanksgiving.</hi> They muſt obſerve me, I cannot ſtudie particular perſons in the Exerciſe of my Function. I dare ſay ſhee came artificially to want it, and loſt it, to object againſt me.</p>
+                     <p>
+                        <hi>You ſaid,</hi>
+                        <note place="margin">M. WHITE.</note> 
+                        <hi>Thoſe that would not conforme to thoſe Orders, were no better then Witches and Devils.</hi>
+                     </p>
+                     <p>They make the Scripture looke enviouſly upon me:<note place="margin">ANSWER.</note> I ſaid no more then <hi>Samuel,</hi> 1 <hi>Sam.</hi> 15.23. Preaching upon that Text, <hi>Obedience is better then Sacrifice, Rebellion is as the ſinne of Witch<g ref="char:EOLhyphen"/>craft,</hi> I diſſwaded my Congregation from diſobedience, from that Phraſe wherewith it was ſtigmatiz'd in the Text, <hi>Witch-craft,</hi> which was, Conjuring and dealing with the Devill, and I would not have them partakers with Witches and Devils, 1 <hi>Cor.</hi> 10.20. What <hi>Chymicks</hi> be theſe Article-mongers, that can extract <hi>Quid<g ref="char:EOLhyphen"/>libet è quolibet?</hi> Turn a faire Text into a foule Article?</p>
+                     <p>
+                        <hi>You deſir'd God,</hi>
+                        <note place="margin">M. WHITE.</note> 
+                        <hi>not to heare their Prayers, that would not joyne with you in all your performances.</hi>
+                     </p>
+                     <p>If any ſuch uncharitable Wiſhes ſhould proceed from my mouth,<note place="margin">ANSWER.</note> I ſhould utterly be aſhamed of it, and abhorre my tongue for ſpeaking it: but the truth is this; I often threatned the neglecters of<note n="*" place="margin">All my Accu<g ref="char:EOLhyphen"/>ſers are abſolute enemies to the Common-Pray<g ref="char:EOLhyphen"/>er-Booke.</note> Divine Service, that ſtayed from Church all Prayers-while for purpoſe, that God would not heare their Prayers that would not heare ours, which they have molded to this ſtrange forme.</p>
+                     <p>Here I appeale to all the world, Whether it be not the dutie of an Auditour, if he heare any thing fall from his Miniſter contrarie to ſound Doctrine, to come and tell him of it perſonally, according to Chriſts Rule, <hi>Matth.</hi> 18.15. <hi>Dic inter te &amp; illum,</hi> then <hi>Dic Eccleſiae &amp;c.</hi> In many things wee offend all, as <hi>Jacob</hi> ſaid of the Money in his ſonnes Sacks;<note place="margin">Gen. 43.12.</note> peradventure it was an over-ſight: if a man offend not in tongue, he is perfect. Many times a Miniſter lets fall an utterance, beſides his mind: yet to ſhew you the conſti<g ref="char:EOLhyphen"/>tution of theſe Auditours, I never heard of theſe Faults before, nor ever ſhould, but to doe me a diſparagement.</p>
+                  </div>
+                  <div n="3" type="article">
+                     <pb n="5" facs="tcp:112744:5"/>
+                     <head>The third Article.</head>
+                     <p>
+                        <hi>That he Preached,</hi>
+                        <note place="margin">Suſan. Field. John Field. Ed. Prudden</note> 
+                        <hi>That it was lawfull for Chriſtians to joyne with any Nation in their outward Worſhip; and hath ſaid, That the</hi> Ro<g ref="char:EOLhyphen"/>man <hi>Church is a true Church, in respect of Fundamentall Points of the Religion, although it be ſtained with Hereſie; and that when wee are in</hi> Italy <hi>or</hi> Spaine, <hi>wee muſt doe as they there, and proved it from</hi> 1 Cor. 9.19.20.</p>
+                     <p>What ſay you to this Article?<note place="margin">M. WHITE.</note>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">ANSWER. </seg>
+                        </label> This Article carryes that Fallacie of <hi>Aristotle; A benè diviſis ad male con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>uncta,</hi> The firſt and laſt of this Article are one, delivered in a breath: But here is a Line riveted into the Piece about the <hi>Roman</hi> Church, which was delivered at a vaſt diſtance of time; to invite you to beleeve, that M. <hi>Whitby</hi> laboured a Communi<g ref="char:EOLhyphen"/>cation with the Church of <hi>Rome</hi> in Worſhip, for ſo the Cobweb is ſpunne, to catch the hearers: I make no queſtion, but to ſatisfie the Judicious and Charitable; and I care for no more.</p>
+                     <p>I beſeech God to bleſſe me in this world, and in that to come, to, and no otherwiſe, but as I have beene a conſtant enemie to that Church, from my education, and abhorre a Communion with their Tenents, &amp;c.<note n="*" place="margin">My afternoons Exerciſes are wholly inſtitu<g ref="char:EOLhyphen"/>ted againſt the <hi>Rheniſh</hi> An<g ref="char:EOLhyphen"/>notations.</note> and have dayly begot the deteſtation of her in my Auditorie; yet I am a Foe to none, beyond the Line of Reaſon: And therefore to acquaint the world with what I once delivered, and is upon Record; I once mov'd that Queſtion, <hi>Ex abundantiâ &amp; copiâ doctrinae,</hi> out of nicitie, for ſo I qualified it at that time, <hi>Stabilire opinionem, non unitatem; an Romana Eccleſia ſit Eccleſia Dei?</hi> Or belongs to the Catholique ſtill? And ſtated it affirma<g ref="char:EOLhyphen"/>tive out of Doctor<note n="*" place="margin">Append. of the fifth Booke of the Church, <hi>p. 882. 883.</hi>
+                        </note> 
+                        <hi>Field;</hi> for I meaſured his ſyllables, in deciding it: It belongs to the viſible Catholique Church, and borrowes that Title<note n="*" place="margin">As S. <hi>Auſt.</hi> The ſocieties of Heretikes con<g ref="char:EOLhyphen"/>tribute to the Catholique; and <hi>Salomon, Cant. 6.8.</hi> deſcribes the Church reple<g ref="char:EOLhyphen"/>niſht with Con<g ref="char:EOLhyphen"/>cubines as well as Queenes and Virgins.</note>: It is <hi>Verè Eccleſia potius quàm vera,</hi> in <hi>Mornay's Criticiſmes: Vera</hi> is but the <hi>Emphaſis</hi> of <hi>Eccleſia,</hi> if wee uſe that phraſe, and beſpeakes the truth of being, not of Doctrine; <hi>Meta<g ref="char:EOLhyphen"/>phyſicè,</hi> not <hi>Moralitèr:</hi> As a Leper, or a maimed man, that hath but body and ſoule together, is ſtyled <hi>Verus homo;</hi> be his perſon never ſo deformed, he is called a Man ſtill, and nothing elſe: ſo the Church of <hi>Rome</hi> is a Church, <hi>Templum Domini,</hi> elſe wee muſt not
+<pb n="6" facs="tcp:112744:6"/>expect Antichriſt from thence; and Children baptized there, muſt be rebaptired: ſo that in reſpect of the Profeſſion of Religion, the holding of ſome ſaving Truths, as the Divinitie of the God-head, and Trinitie of Perſons, wherein wee agree; ſome Articles of Faith, Ordinations, Baptiſme; ſhee ſteales that Title of <hi>Eccleſia Chriſti,</hi> as the ſame Author: how dangerous is it for a Scholar to uſe his Judgement and Reading among ignorant men, in whom is more malice then diſcretion, their gall above their judgement? But to anſwer the Article; the firſt and laſt were one continued diſcourſe about indifferent matters, expreſſely about the Poſtureor the Sacrament: I told them, in <hi>France</hi> they receive it ſtanding, or walking; in <hi>Germanie</hi> ſitting, in <hi>England</hi> kneeling: all theſe are beſt at home; and did wee come to their Church, wee ought to comply, as Saint <hi>Paul, loco citato,</hi> obſerved the manners of the places where he travelled, <hi>Italy</hi> or <hi>Spaine,</hi> &amp;c. Underſtand this of our owne Religion and Profeſſion; I did not open a Gap to Liber<g ref="char:EOLhyphen"/>tiniſme, to teach men to be <hi>Jews</hi> or <hi>Turks,</hi> or <hi>Papiſts,</hi> &amp;c. with the <hi>Polype</hi> fiſh, to change their colour with the next Rock.</p>
+                  </div>
+                  <div n="4" type="article">
+                     <head>The fourth Article.</head>
+                     <p>
+                        <hi>That he laboured by all meanes,</hi>
+                        <note place="margin">Suſan. Field. John Field. Ed. Prudden</note> 
+                        <hi>both by Preaching and otherwiſe, to diſgrace our Brethren the</hi> Scots, <hi>calling them in many of his Ser<g ref="char:EOLhyphen"/>mons, Rebels and Traytors, and made a Sermon purpoſely against them, calling them the ſonnes of</hi> Belial, <hi>and ſaid, Now adays a Rogue and Tinker, a Pedlar, any Body, was good enough to draw ſubjects to Rebellion against their King.</hi>
+                     </p>
+                     <p>This Article was omitted: I was not queſtioned here; perchance it was buried under the Act of Oblivion: But what I ſpake, I ſpake under Protection of State, the Kings Proclamation to that purpoſe, and a Prayer in the Church to boot. Beſides, this Article is aged, it was before the <hi>Protestation,</hi> when I had no more engage<g ref="char:EOLhyphen"/>ment to a <hi>Scot,</hi> then to the <hi>Dutch</hi> or <hi>French:</hi> ſince the <hi>Protesta<g ref="char:EOLhyphen"/>tion,</hi> my Vowes are upon me. But to diſcloſe the Article; at the <hi>Scots</hi> comming in, I preacht upon that Text, 2 <hi>Sam.</hi> 20.1, 2. <hi>There happened to be there a ſonne of</hi> Belial, <hi>whoſe name was</hi>
+                        <pb n="7" facs="tcp:112744:6"/>Sheba, <hi>the ſonne of</hi> Bicri, <hi>&amp;c.</hi> I knew not who <hi>Sheba</hi> was, and it was no matter; a Tinker or a Pedlar, I ſaid, was fit for ſuch a Pro<g ref="char:EOLhyphen"/>ject, as <hi>Jack Straw, John Cade,</hi> and <hi>Wat Tiler.</hi>
+                     </p>
+                  </div>
+                  <div n="5" type="article">
+                     <head>The fifth Article.</head>
+                     <p>
+                        <hi>He hath ſhewed himſelfe an enemie to Parliaments, ſaying,</hi>
+                        <note place="margin">Suſan. Field. John Field. Ed. Prudden</note> 
+                        <hi>The King may take away his ſubjects goods to ſupply his wants, without a Parliament, or elſe (he ſaid) he is no King at all; and for a King to be ruled by the Parliament, is to give his Crowne to them, and himſelfe to become a ſubject: He ſaid alſo, That it is not in the power of the Parliament, to take a part of a Miniſters Benefice to maintaine a Curate.</hi>
+                     </p>
+                     <p>What ſay you to this Article?<note place="margin">M. WHITE.</note>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">ANSWER. </seg>
+                        </label> Of all the Articles, I have no acquaintance with this; <hi>Nec via nec veſtigium inveniri.</hi> All the Congregation was ſolemnely examin'd on theſe Articles on a Sabbath day, before worthy Gentlemen of the County, and diſclaim'd this Article abſolutely; never any ſuch thing was delivered in that Audience: I have many and many times preached Propriety, never Tyranny, and theſe Rovers could nei<g ref="char:EOLhyphen"/>their produce time nor Text of theſe Articles, when, on what oc<g ref="char:EOLhyphen"/>caſion, or Scripture delivered. But ſince thoſe Texts they did pro<g ref="char:EOLhyphen"/>duce, did ſo unhappily diſcover them, it was wiſedome to be igno<g ref="char:EOLhyphen"/>rant of the moſt, for <hi>dolus latet in indefinito.</hi> Two of the three wit<g ref="char:EOLhyphen"/>neſſes are of ſuch inconſiſtencie of judgement, emptineſſe, incapaci<g ref="char:EOLhyphen"/>tie, diſtraction, that I dare venture my Credit, they are not able to carry a Text twice repeated, <hi>Terminis terminantibus;</hi> which made me admire when I ſaw them unanimous in their Evidences: They were long Catechized by ſome good Scholar, before they could ſay theſe leſſons without booke; the laſt Line aſſures me of the So<g ref="char:EOLhyphen"/>phiſtrie, which M. <hi>White</hi> ſtruck out; yet I beleeve it was as true as the reſt, having no more occaſion to talke of a Miniſter and his Cu<g ref="char:EOLhyphen"/>rates allowance, then of any other impertinency, ſo that be the mat<g ref="char:EOLhyphen"/>ter of this Article true or falſe, I am confident it is borrowed; and, as they ſay, it is familiar to chooſe Articles according to the fate they bring upon men. That which will put him out, you muſt put in.
+<pb n="8" facs="tcp:112744:7"/>it is no matter what he hath done, but what will undoe him: this Article is more aged then the Parliament, and therefore improba<g ref="char:EOLhyphen"/>ble. My devotion and behaviour to the Parliament ſince it had a be<g ref="char:EOLhyphen"/>ing, I hope are more innocent and probable arguments, then wan<g ref="char:EOLhyphen"/>dring jealouſies before.</p>
+                  </div>
+                  <div n="6" type="article">
+                     <head>The ſixth Article.</head>
+                     <p>
+                        <hi>That he diſſwaded his Pariſhioners from contributing to the Relief of</hi> Ireland;<note place="margin">Ed. Gibbs. John Field.</note> 
+                        <hi>relling them, they were at great charges otherwiſe and wiſhing the younger people that were ready to give, to keepe their money for ſome Briefes he had to gather ſhortly of great value, and that charity begins at home.</hi>
+                     </p>
+                     <p>
+                        <hi>You were an Enemy to the Reliefe of</hi> Ireland.<note place="margin">M. WHITE. ANSWER.</note>
+                     </p>
+                     <p>This Article is ſo contradictory to what I then ſaid, that the Congregation wrote Impudercie on it: had that brow that made it, any wrinckle of ſhame or honeſty, he would have put in ſome<g ref="char:EOLhyphen"/>thing elſe; for I laboured by all skilfull, powerfull Arguments, to advance it, and invented a way to make the Pariſh bountifull, ex<g ref="char:EOLhyphen"/>tracting foure Briefes which I had then in my hands, from the chil<g ref="char:EOLhyphen"/>dren and ſervants of the Pariſh, which never gave before, nor would have beene askt to that Collection, and ſo left the houſe-keepers free, that they might be the more liberall to <hi>Ireland;</hi> yet I am wounded with mine owne plumes, and my induſtry to the cauſe in<g ref="char:EOLhyphen"/>verted againſt me, I was never counted an enemy to charity before.</p>
+                  </div>
+                  <div n="7" type="article">
+                     <head>The ſeventh Article.</head>
+                     <p>
+                        <hi>That he hath diſſwaded his Pariſhioners from taking the Proteſta<g ref="char:EOLhyphen"/>tion; ſaying,</hi>
+                        <note place="margin">Ed. Gibbs. John Field.</note> 
+                        <hi>That it was enough to ſet the whole Kingdome together by the eares.</hi>
+                     </p>
+                     <p>
+                        <hi>You diſſwaded your Pariſhioners from taking the Proteſtation.</hi>
+                        <note place="margin">M. WHITE. ANSWER.</note>
+                     </p>
+                     <p>This is an Article of the ſame brood, I tooke the Proteſtation my ſelfe; preached two Sermons upon it out of <hi>Pſal.</hi> 66.13. divi<g ref="char:EOLhyphen"/>ded
+<pb n="9" facs="tcp:112744:7"/>it into foure parts, opened it, and commended to my Congre<g ref="char:EOLhyphen"/>gation every part of it: I doe not contradict that in my Pew, which I preach in my Pulpit: I am not Yea and Nay; but I told thoſe ſeditious men that brought it me unatteſted, contrary to the Ordinance, they were diſorderly men, and would ſet the world to<g ref="char:EOLhyphen"/>gether by the eares; which they (as handſomely as they could) tranſferred from their perſons to the Proteſtation.</p>
+                  </div>
+                  <div n="8" type="article">
+                     <head>The eighth Article.</head>
+                     <p>
+                        <hi>That in a Sermon, at a Viſitation at</hi> Rumford,<note place="margin">Ed. Prudden Ed. Gibbs. John Field.</note> 1641. <hi>out of a pre<g ref="char:EOLhyphen"/>tended zeale for the Common Prayers, bitterly inveighed againſt preaching and conceived prayers,</hi> viz. <hi>That God thinkes beſt of formes of prayer, and not of prayers of the Spirit, for prayer by the Spirit did quench the Spirit, and that Gods ſtomack is not queazie as mens of our dayes; he doth not ſearch for new devices, God is the God of the</hi> Old-Exchange <hi>as well as of the New, and wears not ſuch mutable eares as men doe.</hi>
+                     </p>
+                     <p>
+                        <hi>That ſet-formes of Common prayer, are the greateſt glory of our</hi> Engliſh <hi>Nation.</hi>
+                     </p>
+                     <p>
+                        <hi>That thoſe that cannot endure to ſpend one houre in hearing Di<g ref="char:EOLhyphen"/>vine Service, and yet can be content to ſee two glaſſes turned in the Pulpit, though they heare nothing but Non-ſenſe, their eares are bet<g ref="char:EOLhyphen"/>ter then their hearts.</hi>
+                     </p>
+                     <p>
+                        <hi>What ſay you to the Viſitation Sermon?</hi>
+                        <note place="margin">M. WHITE. ANSWER.</note>
+                     </p>
+                     <p>I preacht at the Viſitation on that Text <hi>Matth.</hi> 6.9. <hi>After this manner therefore pray ye, Our Father, &amp;c.</hi> in advancement of our forme of Common Prayer: The Copie I had in my hand at the Tryall, layd it downe on the Table before the Committee, with theſe words: <hi>If there be any thing in this Sermon, that ſavors of a corrupt braine or an evill spirit, I will gladly beare the guilt of all theſe Articles; if not, I hope this may be a glaſſe wherein you may ſee their ignorance and malice, as well as my innocence.</hi> I told them moreover,<note place="margin">The Lord <hi>Say's.</hi>
+                        </note> in whoſe hands there was a Copie from the firſt birth of it: Nay, to tell the world my folly in this caſe, I have preacht this Sermon thrice in three ſolemne Congregations: I have given out
+<pb n="10" facs="tcp:112744:8"/>three Copies of it; to the Lord <hi>Say,</hi> to my father, the Miniſter of <hi>Buckingham,</hi> and to a neighbour Gentleman in <hi>Eſſex;</hi> and now I muſt be forc't to Print it, to Vindicate both it and me ſtom the braine of the Vulgar and the Countrey noyſe; and if I doe not Print it as neere the Copie and delivery as I can, let God and the world detect me for an Impoſtor: But to dally a little with the Article, the Author brings me in, out of a pretended Zeale to Common Prayer, to have ſaid this, when all the Countrey knowes, my Zeale is more then pretended to Divine Service: I have preſerved the forme of our Church prayers to this day, and will maintaine them againſt any oppoſer: Sure ſome preacher put in that Rhetorick, that hath renounc'd the Common Prayer, and thought I would prove a pretended Zelot like himſelfe.</p>
+                     <p>Many have ſpoken baſely and courſely of it as the report goes; it is now to be ſeene, and ſeares no tongue but the blaſphemers, no judgement but the fool's.</p>
+                     <p>Here <hi>Edward Gibs</hi> made them merry, miſtaking Mutuall eares in God, for Mutable: One of the Committees askt him what Mutuall eares were? He could not tell; but ſaid, Gods Mutuall eares, if it pleaſe you: as the other witneſſe to theſe Articles, the Gentleman of <hi>Gotham</hi> call'd the Malignants, Relignants alwayes, not being able to know or diſtinguiſh words: yet theſe Mounte<g ref="char:EOLhyphen"/>bankes will be judges of Sermons and Divinitie.</p>
+                     <p>Reader, I will ſet the Sermon after the Articles, that this ſtuffe may goe together.</p>
+                  </div>
+                  <div n="9" type="article">
+                     <head>The ninth Article.</head>
+                     <p>
+                        <hi>That he ſaid,</hi>
+                        <note place="margin">Rob. Coudge <hi>ſolus.</hi>
+                        </note> 
+                        <hi>It is law full for any man to doe obeiſance to any thing in the remembrance of God.</hi>
+                     </p>
+                     <p>
+                        <hi>Did you ſay theſe words in your Studie,</hi>
+                        <note place="margin">M. WHITE.</note> 
+                        <hi>as you were diſcourſing with</hi> Rebert Goudge?</p>
+                     <p>I doe not well underſtand them,<note place="margin">ANSWER.</note> nor can I Propheſie what hee meanes by them, I reſigne the Article back to his wifedome that made it.</p>
+                  </div>
+                  <div n="10" type="article">
+                     <pb n="11" facs="tcp:112744:8"/>
+                     <head>The tenth Article.</head>
+                     <p>
+                        <hi>That he refuſeth to take or adminiſter the late Covenant.</hi>
+                     </p>
+                     <p>
+                        <hi>Have you tooke the Covenant?</hi>
+                        <note place="margin">M. WHITE. ANSWER. M. WHITE. ANSWER.</note>
+                     </p>
+                     <p>No.</p>
+                     <p>
+                        <hi>Will you take it?</hi>
+                     </p>
+                     <p>I crave the priviledge of a Chriſtian to enjoy my conſcience, I cannot take it: I had a fortnights time to thinke better of it: I came up within the time, and told them, I would take it as farre as it concern'd the good of the Parliament, but not the <hi>Pro</hi> and <hi>Con.</hi> One of the Committee askt me, what I meant by <hi>Pro</hi> and <hi>Con?</hi> I anſwered, every wiſe man ſeeth this Covenant to be built upon a Controverſie betwixt King and Parliament; now the ſame loyall opinion I have of the one, I have of the other, and therefore cannot ſweare: I beleeve that the Parliament tooke up armes, for Religi<g ref="char:EOLhyphen"/>on. Lawes and Priviledges, to maintaine them, and I beleeve the King doth the ſame, and I muſt not drive out one nayle with another: I beleeve in conſcience that <hi>Joſeph</hi> is an honeſt man, and I thinke the ſame of <hi>John;</hi> I muſt not ſweare out my charity to <hi>John,</hi> with my charity to <hi>Joſeph:</hi> and ſo was bid to withdraw, and ſent home for almoſt halfe a yeare, having ſatisfi<g ref="char:EOLhyphen"/>ed the Committee with my anſwers, none contributing a ſyllable to my doome at that time.</p>
+                     <p>To ſhew the world now, the Conſtitution of my accuſers, how unquenchable their Zeale is to ſuch enterprizes, their malice was more incenſed by that repulſe: They are preparing preſently for a ſecond On-ſet like <hi>Simeon</hi> and <hi>Levi,</hi> their wrath was cruell: that inſtance may ſtand here, for never a tryall but ſome <hi>Levites</hi> were ap<g ref="char:EOLhyphen"/>parent, as well to contrive the Articles, as countenance the Cauſe; It was not the witneſſes alone, but their Oracles to boot.</p>
+                     <p>At Chriſt-maſſe I was ſerv'd with a ſecond Summons on the Lords Day, as I was comming to the Sacrament; and ſtanding before the Lords Table, preparing the Elements for ſervice, <hi>John Field</hi> pre<g ref="char:EOLhyphen"/>ſented me with this piece of his Religion; his Religion I may call
+<pb n="12" facs="tcp:112744:9"/>it, for we could ſee no more: as ſoone as he had ſerv'd me, like <hi>Judas</hi> he went out, forſaking the Service and the Congrega<g ref="char:EOLhyphen"/>tion.</p>
+                  </div>
+               </div>
+               <div type="vindication">
+                  <p>ON the 29. of <hi>December,</hi> I appeared at the <hi>Exchequer,</hi> and had tenne articles more exhibited, but they fell ſhort of hurting me, they were either ſingle witneſſes, or double lyes; And a no<g ref="char:EOLhyphen"/>ble Knight of the Committee told me, they did not ſtick on me, they were Moats in compariſon of the firſt, which appear'd as Mountaines: Therefore I ſhall be the nimbler in diſpatching them to the Reader. Theſe Articles come moſt from the Chimney-cor<g ref="char:EOLhyphen"/>ner, or Table: what I ſpake in private at home, is Articl'd by <hi>Edward Prudden,</hi> then a ſervant of the Family, and a Traytor to it; but it is no matter, ſince the world knowes the worſt.</p>
+                  <div n="1" type="article">
+                     <head>The firſt Article.</head>
+                     <p>
+                        <hi>Firſt,</hi>
+                        <note place="margin">Ed. Prudden <hi>ſolus.</hi> M. WHITE. ANSWER.</note> 
+                        <hi>That the taking off the Earle of</hi> Straffords <hi>head, cauſed the Rebellion in</hi> Ireland.</p>
+                     <p>
+                        <hi>What ſay you to this Article?</hi>
+                     </p>
+                     <p>I cannot tell, where, when to whom, on what occaſion, I ſhould ſpeake it; but we have often diſcourſed of the Deputy, in reference to the miſeries of <hi>Ireland,</hi> not any affaires in <hi>England,</hi> imagining that the Rebells tooke opportunitie to riſe from his abſence and death; if he had beene there, they durſt not have ſtirred; it was <hi>cauſa per Accidens: Cauſa ſine quâ non,</hi> in our talke, not <hi>Efficiens;</hi> no phyſicall, but a morall cauſe, which is the occaſion and oppor<g ref="char:EOLhyphen"/>tunitie; as my going to Church is the cauſe that I am robbed at home.</p>
+                  </div>
+                  <div n="2" type="article">
+                     <head>The ſecond Article.</head>
+                     <p>
+                        <hi>That a heathen might be ſaved by his Morall vertues,</hi>
+                        <note place="margin">Ed. Prudden John Field.</note> 
+                        <hi>without Chriſt, elſe God ſhould be more juſt then mercifull.</hi>
+                     </p>
+                     <pb n="13" facs="tcp:112744:9"/>
+                     <p> This Article would make me bluſh,<note place="margin">ANSWER.</note> had not Gods providence diſcovered it for me: but ſure, if this Article had not beene ſpu<g ref="char:EOLhyphen"/>rious, it would have ſhewne its face the laſt time; for thoſe were a yeare and an halfe a hatching: and could they forget this, and leave it out? I trow not. I deſired M. <hi>White</hi> to aske, on what Text it was Preacht? for I write all my Sermons, as I told them, from the beginning of my Tryall. I thanke God hee named a Text, 1 <hi>Cor.</hi> 13. hee knew not the Verſe, but I fancied it could be no Verſe but the twelfth. I look'd amongſt my Copies, and there I found that Subject which I ſhall faithfully tranſcribe out of the Copie, if the Reader will pardon the Prolixitie. The excellencie of the Subject would invite me to Print the whole, were it not for tediouſneſſe. The words are; <hi>Now wee ſee through a Glaſſe darkely, but then face to face:</hi> Inſiſting on our different knowledge of God in this world, and the eſtate to come, implyed by <hi>the Glaſſe</hi> and <hi>the face.</hi> Three things I obſerved in the word <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>Glaſſe:</hi> firſt, the <hi>darkneſſe</hi> of our knowledge here; ſecondly, the ſeverall <hi>Glaſſes</hi> wherein wee ſee God; thirdly, the beſt uſe of theſe <hi>Glaſſes.</hi> On the ſecond part, I rayſed this varietie; Three <hi>Glaſſes</hi> wherein wee ſee God: firſt, the <hi>Glaſſe</hi> of the Creation, <hi>Rom.</hi> 1.20. ſe<g ref="char:EOLhyphen"/>condly, the <hi>Glaſſe</hi> of Reaſon, <hi>Proverb.</hi> 20.27. thirdly, that of Faith and Revelation, <hi>Jam.</hi> 1.24, 25. From the two firſt <hi>Glaſſes</hi> I rayſed this Queſtion Whether the Workes of the Creation and the Light of Nature, the viſible World, Reaſon, and Philoſophie would ſhew God ſufficiently to bring a man to Heaven? Whether a Heathen and Philoſopher might be ſaved through theſe two <hi>Glaſſes?</hi> The Copie runnes thus: <q>I have no authoritie and diſ<g ref="char:EOLhyphen"/>poſition to condemne any nor ſhut Heaven-Gates againſt them; <hi>Who art thou that judgest another mans ſervant? Rom.</hi> 14.4. To judge, is Gods Prerogative; it becomes me to ſhew Pitie, rather then Crueltie: I am not proud to ſend all to Hell that knew not Chriſt ſo well as I, but rather muſt judge my ſelfe, and thinke wee that know God more then they, ſhall have a harder <hi>Audit; Father forgive them, they know not what they doe, Luke</hi> 22. The leſſe knowledge, the more Preface to Mercie: The ſer<g ref="char:EOLhyphen"/>vant that knowes his Lords will, and doth it not, ſhall have more ſtripes. Thoſe that ſought after God and Heaven, and walkt ac<g ref="char:EOLhyphen"/>cording to the Law hee gave them, in every Nation, Age, and
+<pb n="14" facs="tcp:112744:10"/>Condition, ſome were accepted, <hi>Act.</hi> 10.35. Even the <hi>Gentiles,</hi> that had not the Law, were a Law unto themſelves, <hi>Rom.</hi> 2.15, 16. If God ſhewed them enough to condemne them, <hi>Rom.</hi> 1. it becomes not me to make him cruell, and ſay, hee ſhewed them not enough to ſave them, <hi>Micha</hi> 6.8. <hi>He hath ſhewed thee, O man, what is good; and what doth the Lord require of thee?</hi> There is an <hi>Indicatum,</hi> and <hi>Requiſium:</hi> I will not conceive God ſo hard a Maſter, as the un<g ref="char:EOLhyphen"/>gracious ſervant reproacht him, reaping where he hath not ſowne: Put thy knowledge to the right Bank, and as God ſhewes, he will require, and accept thee. <hi>I know, there is no ſalvation but by Faith in Christ, other foundation can no man lay,</hi> 1 <hi>Cor.</hi> 3.11. But Faith hath beene a Myſterie in all Ages; the Lambe ſlaine from the foun<g ref="char:EOLhyphen"/>dation of the world a wonder which Angels deſired to looke into. That <hi>Glaſſe,</hi> like the Proſpective Glaſſe, hath varieties of appearan<g ref="char:EOLhyphen"/>ces as God divides to every man <hi>a meaſure of Faith,</hi> 1 <hi>Cor.</hi> 12. Wee muſt not meaſure all the world by our Laſt: Tell me now <hi>Adam</hi> beleeved in Chriſt, before his <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>; what fancie the <hi>Jew</hi> had of Chriſt before hee came, that would not owne him when hee ſaw him. The Old Teſtament bad one Line of our Creed expreſſely, <hi>Credo in Deum;</hi> but the other Perſons of the Trinitie were ſtran<g ref="char:EOLhyphen"/>gers to their apprehenſions. Saint <hi>Paul</hi> hath ſome glances in his Epiſtles that doe illuminate my mind, and confirme my Charitie:<note n="*" place="margin">Gal. 4.9.</note> 
+                           <hi>Wee know God, or rather are knowne of him, &amp;c. If I may appre<g ref="char:EOLhyphen"/>hend that for which I am apprehended, Phil.</hi> 3.12. where the hand falls ſhort of him, hee takes hold of it<note n="*" place="margin">Gods mercy over-reacheth mans appre<g ref="char:EOLhyphen"/>henſion.</note>; <hi>I am found of them that ſought me not,</hi> ſpeaking of the <hi>Gentiles, Eſ.</hi> 65.1. <hi>Hee will have mercie on whom hee will, Rom.</hi> 9.15. <hi>The Revelation of Chriſt was a hidden myſterie from former ages, Eph.</hi> 3.4, 5. And therefore above my rule to conclude, <hi>Quanta &amp; qualis fides ante Chriſtum ſufficit.</hi> Thoſe vertuous Philoſophers that lived in awe of God, and ex<g ref="char:EOLhyphen"/>pectation of his reward, <hi>Heb.</hi> 11.6. ſhall be within the compaſſe of my hopes, many of them; elſe how ſhould I hope for mercie for my ſelfe, that know God better, and live worſe? Will not <hi>Cato</hi> make Chriſtians bluſh at the Judgement Day? There is not ſo ex<g ref="char:EOLhyphen"/>preſſe diſtinct Faith required of them, as us: <hi>To whom much is given,</hi> of them <hi>much ſhall be required.</hi>
+                        </q> So farre the Sermon, which I tendered to the Committee, ſhewing that Line, <hi>Other founda<g ref="char:EOLhyphen"/>tion can no man lay,</hi> 1 <hi>Cor.</hi> 3.11. where my opinion was viſible,
+<pb n="15" facs="tcp:112744:10"/>I ſhewed two Copies more, my Confeſſion of Faith on that Arti<g ref="char:EOLhyphen"/>cle, <hi>Credo Jeſum;</hi> and that Queſtion, <hi>An gentes quae nec Meſſiam expectarunt, nec miſſum agnoverunt, potuerunt è lumine naturae ſal<g ref="char:EOLhyphen"/>vari,</hi> which I had ſtated negative againſt the <hi>Arminians</hi> long agoe; and in all my Sermons they heard that Text of <hi>Peter, Act.</hi> 4.12. <hi>There is ſalvation in no other Name &amp;c.</hi> I hope three Copies did prevaile above two Cow-men, though they are as Zealous as <hi>Doeg</hi> the <hi>Edomite, Sauls</hi> heard-man that ſlew the Prieſts, 1 <hi>Sam.</hi> 21.7. and 22.18. If any wonder at the miſtake in this Article, <hi>deſine mirari;</hi> the man that made it, knowes as well how to Pick a hole in a Miniſters Coat, as a lock in his Ladies houſe.</p>
+                  </div>
+                  <div n="3" type="article">
+                     <head>The third Article.</head>
+                     <p>
+                        <hi>That the Voting downe of Biſhops,</hi>
+                        <note place="margin">Ed. Prudden John Field.</note> 
+                        <hi>was to destroy the Order of</hi> Aaton, <hi>and to bring</hi> Jeroboams <hi>order in.</hi>
+                     </p>
+                     <p>Voting is a word I never uſe,<note place="margin">ANSWER.</note> and this Article is above two yeares old, before any Voting downe of Biſhops; yet I have often ſpoken to that purpoſe, labouring to advance Epiſcopacie in the affection of my Auditors (which was the preſent Government) againſt all Corruptions of it: To which end I made uſe of that Text 2 <hi>Chron.</hi> 13.9, 10, 11. <hi>Juda's</hi> Prieſt-hood, and <hi>Jeroboam's,</hi> as <hi>Abijah</hi> ſaid. I alwayes made the Church-Government ſutable, according to the three Conſtitutions of it, under the Law of Nature, Morali<g ref="char:EOLhyphen"/>tie, and Grace; Paternall, Sacerdotall, Epiſcopall.</p>
+                  </div>
+                  <div n="4" type="article">
+                     <head>The fourth Article.</head>
+                     <p>
+                        <hi>He would often wiſh,</hi>
+                        <note place="margin">Ed. Prudden <hi>ſolus.</hi>
+                        </note> 
+                        <hi>That he had great ſummes of money to lend the King.</hi>
+                     </p>
+                     <p>I have ever the beſt wiſhes for the King;<note place="margin">ANSWER.</note> and hearing of Writs going abroad to borrow money, I wiſht I had thouſands to lend him.</p>
+                  </div>
+                  <div n="5" type="article">
+                     <pb n="16" facs="tcp:112744:11"/>
+                     <head>The fifth Article.</head>
+                     <p>
+                        <hi>Seeing an Ordinance of Parliament,</hi>
+                        <note place="margin">John Brown <hi>ſolus.</hi>
+                        </note> 
+                        <hi>for aſſembling Divines for the Synod, and M.</hi> Marſhall <hi>and M.</hi> Sedgewick <hi>nominated for</hi> Eſſex; <hi>he ſaid, A pox take the Puritanicall Faction, they had made more diſturbance in the Kingdome, then ever would be quenched Had they no other to put in but thoſe?</hi>
+                     </p>
+                     <p>Here comes in a new Cuſtomer,<note place="margin">ANSWER.</note> a Proſelyte of the next Patiſh, with whom I have no more acquaintance, then the Crow that flyes by me. <hi>Penes authorem fides.</hi>
+                     </p>
+                     <p>
+                        <hi>Did you not curſe the Furitanicall Faction?</hi>
+                        <note place="margin">M. WHITE.</note>
+                     </p>
+                     <p>None that ever knew me,<note place="margin">ANSWER.</note> heard that Dialect come out of my mouth.</p>
+                     <p>
+                        <hi>Did you not speake againſt M.</hi> Sedgewick <hi>and M.</hi> Marſhalls <hi>Election for the Aſſembly?</hi>
+                        <note place="margin">M. WHITE.</note>
+                     </p>
+                     <p>I ſpake not of M. <hi>Sedgewick</hi> at all,<note place="margin">ANSWER.</note> nor of any Election to the Aſſembly; but ſeeing two Sermons of D. <hi>Burges</hi> and M. <hi>Marſhalls</hi> lying upon M. <hi>Chevelyes</hi> table, I told M. <hi>Chevelye</hi> I lik't D. <hi>Bur<g ref="char:EOLhyphen"/>geſſes</hi> Sermon well, not M. <hi>Marſhalls;</hi> I ſaw nothing in that an<g ref="char:EOLhyphen"/>ſwerable to ſo great a Fame: that was all diſcourſe, and occaſion, that we talk'd of; which M. <hi>Chevelye</hi> being call'd in, juſtified be<g ref="char:EOLhyphen"/>fore the Committee.</p>
+                  </div>
+                  <div n="6" type="article">
+                     <head>The ſixth Article.</head>
+                     <p>
+                        <hi>Upon the Propoſitions for Peace,</hi>
+                        <note place="margin">John Brown <hi>ſolus.</hi>
+                        </note> 
+                        <hi>he ſaid; Now there would be Peace upon any tearmes to ſave life; Now they would deliver up Caſtles, Forts, or any thing, God knowes, to ſave life; Now the Round<g ref="char:EOLhyphen"/>heads Arſes made Buttons.</hi>
+                     </p>
+                     <p>He brings me in very Theatricall,<note place="margin">ANSWER.</note> as if I were acting upon a Stage: but the laſt part betrayes the Author, The Round-heads Arſes is a Complement, that becomes his mouth better then mine.</p>
+                  </div>
+                  <div n="7" type="article">
+                     <head>The ſeventh Article.</head>
+                     <p>
+                        <hi>He thanked God he never had ſo little manners,</hi>
+                        <note place="margin">Ed. Prudden <hi>ſolus.</hi>
+                        </note> 
+                        <hi>as to goe by a Church and not pull off his hat.</hi>
+                     </p>
+                     <pb n="17" facs="tcp:112744:11"/>
+                     <p> This is very likely to be mine, if he meanes through a Church; the inſide, not the out.</p>
+                  </div>
+                  <div n="8" type="article">
+                     <head>The eighth Article.</head>
+                     <p>
+                        <hi>His Companie which he aſſociated himſelfe with, are Malignants,</hi>
+                        <note place="margin">Ed. Prudden Ed. Gibbs. John Field.</note> 
+                        <hi>Drunkards, Swearers, and men of very ſcandalous lives, as D.</hi> Wright, <hi>M.</hi> Nicolſon, <hi>M.</hi> Everington, <hi>and ſuch like perſons; and when he was abſent, theſe onely ſupplyed his place.</hi>
+                     </p>
+                     <p>I thought I might have beene excuſed my Companie-keeping,<note place="margin">ANSWER.</note> ſeeing I make no more uſe of it, then to preſerve Civilitie and Cur<g ref="char:EOLhyphen"/>teſie: it doth not extend to the Ale-houſe or Taxeme, but to the doores where I live, where there be better witneſſes to take notice of my behaviour. I have beene ſix yeares in this Countie and ſcarce know ſix Gertlemen, to whom I owe Viſits; I am an utter ſtranger above two miles from home: I did not expect to be accuſed of Companie, that am accuſed of <hi>Stoiciſme.</hi> For theſe Gentlemen ex<g ref="char:EOLhyphen"/>preſt, I was never witneſſe of any ſuch ill qualities; ſome of them I have not ſeene ſince the Notion Malignant came up, and I have reaſon to thinke better of them then theſe report. Thoſe that will lye unmercifully to paint their Miniſter, will ſtretch a little to ſet out the colours of a ſtranger. For their Preaching in my Church, it is rare; perhaps once a yeare I entertaine a helper, when I viſir my Father: and for their Doctrine, my Accuſers have commended it: when they preacht in my Church, they preacht very well.</p>
+                  </div>
+                  <div n="9" type="article">
+                     <head>The ninth Article.</head>
+                     <p>
+                        <hi>He ſaid, That our Towneſ-men were right for the Cauſe,</hi>
+                        <note place="margin">John Brown botcher, <hi>ſolus.</hi>
+                        </note> 
+                        <hi>to rayſe Warre againſt their King; but for his part, Curſed be his heart that lends any Money, he would not goe on in thoſe wayes.</hi>
+                     </p>
+                     <p>This ſtrange man brings nothing but Curſing and Swearing,<note place="margin">ANSWER.</note> and filthineſſe againſt me: but imagine that we met upon Mount <hi>Ebal,</hi> I hope the Committee will not beleeve, that I was ſo mad as to curſe my ſelfe. With that, I layd downe a Bill of Expences for this yeare, which I had payd and given the Parliament, 20 pound out of a poore Living of 80 pound; the Conſtables Oath was offered, to teſtifie the payment of ſo much from my Purſe.</p>
+                  </div>
+                  <div n="10" type="article">
+                     <pb n="18" facs="tcp:112744:12"/>
+                     <head>The tenth Article.</head>
+                     <p>
+                        <hi>That the ſaid M.</hi> Whitby <hi>hath beene privie to,</hi>
+                        <note place="margin">Ed. Gibbs. Suſan. Field.</note> 
+                        <hi>and aſſiſtant in ſending one privately with Letters to</hi> Oxon.</p>
+                     <p>This is a good Article to wind up the bottome;<note place="margin">ANSWER.</note> there appeares nothing in it but a Lye, and the Image of Jealouſie: Since there hath beene a Controverſie in this Land, <hi>Oxford</hi> hath not beene the wiſer for me by a ſyllable; but I ſent a Letter to a Friend dwelling towards <hi>Cambridge,</hi> and they miſtooke the Univerſitie. <hi>Robert Clark</hi> was called in, whom they accuſed for carrying the Letter; and hee offered to take his Oath, hee knew not where <hi>Oxford</hi> ſtood.</p>
+                     <p>
+                        <hi>Have you tooke the Nationall Covenant?</hi>
+                        <note place="margin">M. WHITE. ANSWER. M. WHITE. ANSWER.</note>
+                     </p>
+                     <p>No.</p>
+                     <p>
+                        <hi>Will you take it?</hi>
+                     </p>
+                     <p>I will take it <hi>Paſſivè,</hi> but not <hi>Activè;</hi> it belongs not to my Calling to root out Epiſcopacie: I take it as <hi>Eliſha</hi> tooke his Maſters departure, 2 <hi>King.</hi> 2.3. patiently. I promiſed them obe<g ref="char:EOLhyphen"/>dience to it, but preſerved my opinion of it, becauſe my Reading had made ſuch impreſſion upon my Judgement. I ſpake too much to this Queſtion and feare it did diſpleaſe: yet I hoped for pardon, it being a ſudden Anſwer to an unexpected Queſtion; and I onely laboured to ſhew an honeſt mind.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="Scripture">
+                  <q>
+                     <bibl>
+                        <hi>PSAL. 82.8.</hi>
+                     </bibl>
+                     <p>Surge Domine, judica terram.</p>
+                  </q>
+                  <q>
+                     <bibl>
+                        <hi>1 PET. 4.19.</hi>
+                     </bibl>
+                     <p>Let them that ſuffer according to the will of God, commit the keeping of their ſoules to him in well-doing, as unto a faithfull Creator.</p>
+                  </q>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:112744:12"/>
+                  <p>THE VINDICATION Of the Forme of COMMON PRAYERS Vſed in the CHURCH of ENGLAND; In a Sermon Preached at the laſt Viſitation at RUMFORD in ESSEX; By DANIEL WHITBY, Maſter of Arts, Parſon of THOYDON-MOUNT: Lately accuſed at the Committee in the <hi>Exchequer Chamber</hi> for the ſaid SERMON.</p>
+                  <p>
+                     <hi>OXFORD,</hi> Printed by LEONARD LICHFIELD, Printer to the Univerſitie, 1644.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:112744:13"/>
+                  <head>An Advertiſement.</head>
+                  <p>VVHere any Limb of the Article is to be found in the Sermon, it ſhall be noted by an <hi>Aſteriske</hi> * in the Margent, eſpecially that Contra<g ref="char:EOLhyphen"/>diction, <hi>Prayers by the Spirit did quench the Spirit.</hi> There is no Inventorie of it, but <hi>pag. 27.</hi> in an <hi>Ob<g ref="char:EOLhyphen"/>jection,</hi> where the Reader may gather the great Abilities of theſe Religious <hi>Mountebanks,</hi> that cannot diſtinguiſh betwixt an <hi>Objection</hi> and <hi>Theſis</hi> in Divi<g ref="char:EOLhyphen"/>nitie, nor know when a man ſpeakes out of his owne mouth, or out of another mans.</p>
+               </div>
+            </front>
+            <body>
+               <div type="vindication">
+                  <pb n="21" facs="tcp:112744:13"/>
+                  <head>The Vindication of the forme of COMMON PRAYERS, uſed in the Church of ENGLAND.</head>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>MATH. 6.9.</hi>
+                        </bibl>
+                        <p>After this manner therefore pray ye.</p>
+                     </q>
+                  </epigraph>
+                  <p>HEre is an <hi>Ergo</hi> in my Text <hi>(Therefore)</hi> it ſhewes this Verſe is an inference of the former: Now leſſe any man ſhould ſay to me as Chriſt to the intruding gueſt; <hi>Friend, How camest thou in hither?</hi>
+                     <note place="margin">Mat. 22.12.</note> be pleaſed in one word to take the <hi>Ergo,</hi> the dependance.</p>
+                  <p>Our bleſſed Saviour in this Chapter cenſureth two ſorts of people for errors in devotion, Hypocrites, <hi>ver.</hi> 5. Heathens, <hi>ver.</hi> 7.</p>
+                  <p>The Hypocrites are chal<g ref="char:EOLhyphen"/>lenged for two things:
+<list>
+                        <item>
+                           <hi>The</hi> Poſture <hi>of Prayer.</hi>
+                        </item>
+                        <item>
+                           <hi>The</hi> Place <hi>of Prayer.</hi>
+                        </item>
+                     </list> firſt, <hi>Standing;</hi> ſecondly, <hi>Streets and Synagogues.</hi>
+                  </p>
+                  <p>Not that either of theſe were evill in themſelves, but in their choyſe and affectation: <hi>They love to pray ſtanding, &amp;c.</hi> They af<g ref="char:EOLhyphen"/>fected them both out of Pride and Singularitie: ſecondly, out of an evill end, <hi>To be ſeene of men,</hi> and ſo <hi>they have their Re<g ref="char:EOLhyphen"/>ward.</hi>
+                  </p>
+                  <p>The Heathens are condemned for <hi>Tautologie,</hi> and idle Reperiti<g ref="char:EOLhyphen"/>ons; that ſerved their Prayers as the Cooke his Dinner, dreſſed Pork in ſeverall Sauces, and Meſſes; all was but Perk: So they loaded Gods eare with multitude of words, to no purpoſe.</p>
+                  <p>Chriſt labours to preſerve his Diſciples from them both: The former, <hi>ver.</hi> 6. The latter in my Text, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp;c.</p>
+                  <p>The parts of this Text are two:
+<list>
+                        <item>
+                           <hi>A</hi> Precept</item>
+                        <item>
+                           <hi>A</hi> Patterne</item>
+                        <item>
+                           <hi>A</hi> Dutie</item>
+                        <item>
+                           <hi>A</hi> Direction</item>
+                        <item>
+                           <hi>The</hi> Commiſſion <hi>Pray ye, &amp;c.</hi>
+                        </item>
+                        <item>
+                           <hi>The</hi> Copie <hi>Our Father, &amp;c.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <pb n="22" facs="tcp:112744:14"/>
+                  <p> I will ſay nothing touching the latter, the Lords-Prayer, though it begins to grow out of requeſt; in many places you ſhall not heare it at all.<note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 15.20.</note> 
+                     <hi>Now the ſervant is not greater then the Lord:</hi> no wonder if they deſpiſe our Prayers, when that which cropped from Chriſts mouth comes not in their lips, as if not worth the owning. The Lord maintaine his owne Prayer, I ſhall labour to maintaine ours, in the firſt parts of the Text, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>After this manner, &amp;c.</hi> Where, that I may not ſpend one graine more of my Glaſſe in a Preface, I ſhall preſently ac<g ref="char:EOLhyphen"/>quaint you what I intend to doe: Foure things will abſolve this Text, and my intents.</p>
+                  <list>
+                     <item>
+                        <hi>Firſt,</hi> The Dutie and Approbation of Common-Prayer, <hi>Pray ye,</hi> All.</item>
+                     <item>
+                        <hi>Secondly,</hi> The Excellencie of ſet formes of Common-Prayer, <hi>After this manner.</hi>
+                     </item>
+                     <item>
+                        <hi>Thirdly,</hi> The Commendation of our ſet forme of <hi>England.</hi>
+                     </item>
+                     <item>
+                        <hi>Fourthly,</hi> I ſhall waſh it from the ſtaine of <hi>Poperie.</hi>
+                     </item>
+                  </list>
+                  <p>Firſt, To begin at the loweſt Stayre of this Diviſion and ſo climbe upwards: It looketh the better in my conceit for its Name and Title, that it is called <hi>Common-Prayer.</hi> For the better any thing is in Religion, and Gods Worſhip, the more excellent it will be, by being publike; <hi>Bonum quo communius, &amp;c.</hi> As the Heavenly Bo<g ref="char:EOLhyphen"/>dies are more uſefull by expanſion, the Sunne moſt ſerviceable when he ſpreads him wideſt in our Hemiſpheare; So Gods ſervice is moſt ſerviceable to him and us by being common, and freely com<g ref="char:EOLhyphen"/>municating it ſelfe to all the people, thriveth both in the vertue and praiſe. Solitary and ſingle Prayer is ſweet, and preſents the Soule with Security, and Liberty, and Raptures, to convey her ſelfe to God. But Common-Prayer is more forcible, and fortified by Union and agreement of Chriſtian minds. Where ſo many hands and hearts are lifted up together, they pull downe God among them by force of Armes: <label type="milestone">
+                        <seg type="milestoneunit">ver. </seg>20</label> 
+                     <hi>Where two or three are gathered, I am in the midſt:</hi>
+                     <note place="margin">Exod. 25.8. Revel, 1.13.</note> 
+                     <hi>Mat.</hi> 18. Marke how intimate he will be to the Congregation: Chriſt Jeſus, the middle Perſon of the Trinitie, loveth ſtill to be in midſt. When he was borne, he was <hi>in medi<g ref="char:EOLhyphen"/>dio jumentorum;</hi> at twelve yeares old, <hi>in medio Doctorum, in the
+<pb n="23" facs="tcp:112744:14"/>midſt of the Doctors;</hi> all his life, <hi>in medio Diſcipulorum;</hi> at his death, <hi>in medio latronum,</hi> of <hi>Theeves;</hi> in Heaven, <hi>Angelorum,</hi> in the midſt of Angels; in the Church, <hi>in medio orantium,</hi> in the midſt of Orators: <hi>&amp;c.</hi>
+                  </p>
+                  <p>Do you know, what it is to have God in the midſt? I fancie ſomething more then ordinary in the phraſe; 'tis not onely his preſence, but his yeelding and condeſcending to their joynt de<g ref="char:EOLhyphen"/>ſires, 'tis to compaſſe God in out ſuits, to hemme him in, to have of him what we aske and will; (as Souldiers a Priſoner, that he cannot eſcape, when they have begirt him round, <hi>in medio.</hi> So (if I may uſe the Metaphor with Reverence to Almighty God) God giveth joynt prayers the Day and Victory over Heaven; ſuffers himſelfe to be taken; and led Captive by the faithfull Devotion of an Aſſembly.</p>
+                  <p>We ſeldome read in Scripture, of God thus conquer'd, and led Captive in ſingle duties, and duells of Devotion, onely twice:<note place="margin">Gen. 32.28. Hoſ. 12.4. Exod. 32.10.</note> when <hi>Jocob</hi> got him in his armes by prayer, and would not let him goe, and when <hi>Moſes</hi> bound his hands, <hi>Let me alone,</hi> God begs to be Releaſed, theſe ſingle Iſraelites prevailed with God. But now eve<g ref="char:EOLhyphen"/>ry pious Congregation is ſure of ſuch a purchaſe, <hi>Ego in medio;</hi> God readily reſigneth himſelfe to conſenting Soules. So that thoſe hands which ſingle are too weake for ſuch a Victory,<note place="margin">Exod. 17.12.</note> when <hi>Aaron</hi> and <hi>Hur</hi> helpe them in their Devotion, become prevalent.</p>
+                  <p>Even in Private Families, this Common-Prayer, day and night is powerfull, much more at <hi>Bethel,</hi> the Sanctuary and Temple, where the place it ſelfe beſpeakes its neceſſity:<note place="margin">Eſa. 56.7.</note> 
+                     <hi>My houſe ſhall be called a houſe of prayer to all people:</hi> where two things;
+<list>
+                        <item>
+                           <hi>The</hi> Appellation <hi>Houſe of Prayer.</hi>
+                        </item>
+                        <item>
+                           <hi>The</hi> Generalitie of it, <hi>Common-Prayer to all people.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>God gave the Church her Name, as to <hi>Adam</hi> in Paradiſe; and fure he did not Nick-name it, it muſt not ſtand for a Cipher. Chriſt defends this Name, and Text of the Prophet <hi>Eſay,</hi>
+                     <note place="margin">Mat. 21.13.</note> by his tongue, hand, Repeating, and laſhing it into their apprehenſions in his Goſpell. Doe not they deſerve the laſh that would diſgrace it? God chuſeth this Name for the Church above all, that we ſhould chooſe this worke above all. Churches had not beene built but for
+<pb n="24" facs="tcp:112744:15"/>Publike Oratories: ſhall we rob God of his intertions, the end to which he gave them? or preferre any thing above that, which he chiefly commends to us? <hi>But ye have made it a den of theeves,</hi> faith Chriſt. Who? Buyers and Sellers: How? By ſtealing into the Church, creeping with their ſtalls into the Houſe of Prayer: but ſtill they let it be a Houſe of Prayer. They did not envie, but ad<g ref="char:EOLhyphen"/>vance that; and ſtood there to further it.</p>
+                  <p>But I will tell you of a ſtrange fort of theeves in our dayes, that will ſteale out of the Houſe of Prayer in Service-time: my, will ſteale the Prayers out of the Church and baniſh them, and wound them with hands and tongnes worſe then the traveller.<note place="margin">Luk. 10.30.</note>
+                  </p>
+                  <p>But may not I be miſtaken and doe them wrong? they love Common-Prayers and Church-Prayers, ſo they be not Printed, ſo they be poured inſtantly from the Spirit, Memory, and Man. So it <hi>be given them in that Houre</hi> as the Scripture ſpeakes, <hi>Mat.</hi> 10.19. wherupon they challenge the Pulpit for a ſudden Service: they will Frequent thoſe Churches and meetings, where the buſineſſe is without bookereſigned wholly to the Preachers preſent thoughts: they will take ſuch as God ſends <hi>ex tempore,</hi> Good or bad. Let it be given them freſh, and each day variety, and they are well: Like <hi>Ahi<g ref="char:EOLhyphen"/>melecks</hi> Shew-bread,<note place="margin">1 Sam. 21.6.</note> which was to be ſet hot upon the Table, in the remotion of the Stale: So if the Bread of Life come hot each Sabbath from the Preachers Oven, they will accept it; othewiſe they are more curious then <hi>David,</hi> and will not have the Stale. To correct this vein of Humour in our age, I ſtep to the ſecond Stayre of my Diviſion.</p>
+                  <div type="proofs">
+                     <head>The excellencie of ſet formes of Common-Prayer.</head>
+                     <p>And here,<note place="margin">Part <hi>2.</hi>
+                        </note> to winne more credit to the cauſe, I ſhall uſe this Art, having but ſlender Abilities of mine owne, I will take ſome abler Scholars by the hand, to confirm and lead me in the entrance of my opinion: Two onely ſhall be named, which may ſuffice; <hi>In the mouth of two witneſſes, &amp;c.</hi> M. <hi>Daniel Dyke,</hi> on <hi>Pſa.</hi> 124. <hi>Let</hi> Iſrael <hi>now ſay, &amp;c.</hi> M. <hi>Atterſol,</hi> on the Booke of <hi>Numbers,</hi> 6. <hi>c.</hi> 23. &amp;c. 10.2. laſt ver. Where both with one Pen proclaim this con<g ref="char:EOLhyphen"/>cluſion, the lawfulneſſe and uſe of ſet formes of Prayer, and praiſes in Publike and Private, M. <hi>Atterſol</hi> proveth it at large, and an<g ref="char:EOLhyphen"/>ſwers the objections to the contrary.</p>
+                     <pb n="23" facs="tcp:112744:15"/>
+                     <p> I ſhall commend the practiſe of ſet formes from good Argu<g ref="char:EOLhyphen"/>ments, as well as men. The Arguments are of three ſorts: From
+<list>
+                           <item>Scriptures.</item>
+                           <item>Reaſons.</item>
+                           <item>Conſent of Reformed Churches.</item>
+                        </list>
+                     </p>
+                     <p>We find the diſcovery of ſet formes in Old and New Teſtament, <label type="milestone">
+                           <seg type="milestoneunit">Argum. </seg>1</label> under the <hi>Jewiſh</hi> and Chriſtian Church. Thoſe two places, <hi>Num<g ref="char:EOLhyphen"/>bers</hi> 6.23. <hi>Thus ſhall ye bleſſe he children of Iſrael, &amp;c. The Lord bleſſe, &amp;c.</hi> which was given to the Prieſts for the whole Congre<g ref="char:EOLhyphen"/>gation, to be pronounced at all times in the Tabernacle; <hi>It was ap<g ref="char:EOLhyphen"/>poynted to</hi> Jacob <hi>for a Law, and to</hi> Iſrael <hi>for an everlaſting Teſtament.</hi> And whereas ſome object <hi>thus, ad hunc modum,</hi> that is after ſuch a manner not the ſame words this is very ridiculous. Then <hi>Moſes</hi> and the Prophets carrying Gods errand,<note place="margin">Exod. 3.13.14.15.</note> 
+                        <hi>Thus ſhalt thou ſay unto them, I am hath ſent me to you:</hi> or, <hi>The God of Abraham, Iſaak, and Jacob, &amp;c.</hi> might not ſay what he ſaid, but muſt coyne ſomething elſe like unto it. <hi>Moſes</hi> uſed one ſet forme for the marching and reſſing of the Arke, <hi>c.</hi> 10.35. though he knew how to ſpeake a word in ſeaſon and out of ſeaſon, as well as any <hi>Separatiſt.</hi> He that offered the Basket of firſt-Fruits had his ſet-forme of Confeſſion, <hi>A Syrian ready to periſh was my father, &amp;c. Davids</hi> 92.<note place="margin">Deut. 26. v. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>.</note> Pſalme was ſung every Sabbath day as we may gather by the title, which is as Canonicall in the <hi>Hebrew</hi> Copies as the reſt. Our bleſſed Saviour in the new Teſtament, ſung a Hymne with his Diſciples after the Sacrament, one of <hi>Davids</hi> Pſa. uſually practiſed on ſuch occaſions. And having the fulneſſe of the Spirit, yet went the third time pray<g ref="char:EOLhyphen"/>ing the ſame words, And gave his Diſciples this ſet forme of Prayer,<note place="margin">Mat. 26. v. 44.</note> 
+                        <hi>When yee pray, ſay, &amp;c. Luk.</hi> 11.2. as <hi>John Baptiſt</hi> taught his diſciples the like which we gather from the firſt verſe.</p>
+                     <p>Where although he did not alwayes tye them to the words and no more which was the error of the <hi>Waldenſes,</hi> yet neither did he at any time forbid them the uſe of thoſe. S. <hi>Paul</hi> had copious gra<g ref="char:EOLhyphen"/>ces of the Spirit yet he alwayes uſeth one forme of ſalutation, be<g ref="char:EOLhyphen"/>fore and after his Epiſtles. S. <hi>John</hi> in his <hi>Revelation</hi> ſets down the formes of prayſes in the Tryumphant Church above;<note place="margin">Revel. ch. 4. 11. 5. 13. 15. 3. 19. &amp;c.</note> In the Song of the 24. Elders, and the Reſt; The Song of <hi>Moſes,</hi> and the
+<pb n="24" facs="tcp:112744:16"/>
+                        <hi>Lamb, verbatim;</hi> what words they ſung, the <hi>Hallelujahs,</hi> and <hi>Dox<g ref="char:EOLhyphen"/>ologies,</hi> and will not ſet formes of Prayer become the Militant Church here below? So that the Scripture is not repugnant to ſet formes of Prayer, but very obvious, which ſhewes the Ancient practiſe of it, both in the <hi>Jewiſh</hi> and Chriſtian Church. And as the Synagogue had a Liturgie compoſed out of <hi>Moſes</hi> and <hi>David</hi> and the Prophets by their Predeceſſors; So the Chriſtian Church hath caſt her ſelfe into the ſame mould from her Infancie; as we read ſtill of the Liturgie of the Fathers. So much of the firſt Argu<g ref="char:EOLhyphen"/>ment.</p>
+                     <p>The Reaſons that favour a ſet forme of Prayers, <label type="milestone">
+                           <seg type="milestoneunit">Argum. </seg>2</label> are drawne from three heads.</p>
+                     <list>
+                        <item>God the hearer or accepter <hi>Of Prayer.</hi>
+                        </item>
+                        <item>The Orator, or Miniſter the maker <hi>Of Prayer.</hi>
+                        </item>
+                        <item>The people to whom it redounds.</item>
+                     </list>
+                     <p>Firſt, Its fond to thinke that Almightie God loatheth prayers that come often in the ſame words, or likes one that hath a dai<g ref="char:EOLhyphen"/>ly new Edition corrected or amended, or rather corrupted by the Author:<note place="margin">*</note> 
+                        <hi>His ſtomack is not ſo queaſie as mame's are,</hi> that affect change and varietie of diſhes:<note place="margin">Act. 17.21.</note> He is no <hi>Athenian</hi> Auditor, <hi>Acts</hi> 17.21. that delights dayly <hi>to heare ſome new thing,</hi> and ſpends his time in expectation of thy invention: He doth not liſten after no<g ref="char:EOLhyphen"/>veltie and varietie of words; to heare the ſoule in a new tune no more then to ſee the body in a new dreſſe: If we come every day in the ſame cloathes to Church we are as welcome. So if we apparell our thoughts in the ſame language,<note place="margin">*</note> 
+                        <hi>God is as well the God of the Old-Exchange as of the New:</hi> He doth as little affect the change<g ref="char:EOLhyphen"/>able ſutes of ſervice as of apparell, and <hi>we treth not ſuch mutable eares as men.</hi> Nay, he threatned to puniſh thoſe that wore ſtrange apparel, <hi>Zephan.</hi> 1.8. and forbad ſtrange gods: So (for any thing I ſee) ſtrange alterations in Religion, in our approaches to him: If no o<g ref="char:EOLhyphen"/>ther God but me,<note place="margin">Mal. 3.6.</note> why we affect other approaches? <hi>I am the Lard, I change not:</hi> you may change and be unlike him ſo: It betrayes a vanitie both in our conceit of God, and in our owne ſoules as <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> we were never the ſame men before him: <hi>I am not I</hi> as S. <hi>Auſten;</hi> we have the ſame ſins to be ſortie for, the ſame ſuits to beg of God,
+<pb n="25" facs="tcp:112744:16"/>the ſame thankſ-giving to pay: And what if we pay it in the ſame Coine? It is all one to him, he doth not affect the new Mint and ſtamp of Devotion; that <hi>Jeſus Chriſt that as the ſame yeſterday,</hi>
+                        <note place="margin">Heb. 13.8.</note> 
+                        <hi>to day, and for ever;</hi> will not diſlike thy prayers if they be ſo.</p>
+                     <p>Secondly, In reſpect of the Orator, whoſe helpe this is in a time of need; every one was not ſo rich under the old Law, to bring God an oblation of his owne coſt and charges:<note place="margin">Sacrificium Juge.</note> there was therefore the continuall Sacrifice, which did befriend them all: ſo every man is not ſo well gifted in this caſe, to poure out a dayly Sacrifice of his owne invention; therefore the continuall forme is a remedie for that want: though ſome in the Church are plentifully ſtored and qualified, yet every veſſell doth not runover, every <hi>bottle</hi> doth not <hi>burſt with new wine:</hi> many an honeſt man wants utterance, know<g ref="char:EOLhyphen"/>ledge remembrance language and contrivance, which are the requi<g ref="char:EOLhyphen"/>ſites to the work: Theſe men muſt betray their weakneſſe, or leave their Miniſterie. No, God and man hath provided every Paſtor a ſtaffe to ſuſtaine his infirmitie, ſo that he that like the palſie-man,<note place="margin">Luk. 5.18.</note> ſhakes and cannot goe himſelfe to Chriſt, he ſhall be ſupported on others ſhoulders the Liturgie of abler men. This is not ſpoken to excuſe the Miniſter, and make him dull and larie; no, he hath his time and place to ſhew his rich abilities in the Pulpit, he hath worke enough to doe ſomewhere elſe both to pray and preach, enough to ſpend himſelfe: I wonder at thoſe Scholars conſtitutions, that would refuſe this eaſe and make Incloſure of Divine Service, that would have nothing open-field for the good of the Commons, but like greedy Impropriators, incloſe all within their owne hedge and ditch. The Prieſt had worke enough to doe of his owne, <hi>Ergo,</hi> God gave him <hi>Levi</hi> to helpe him in his ſervice; ſo our Miniſters have what time they will of their owne for the Pulpit, the forme of Prayers is given them like <hi>Levi</hi> for aſſiſtance, ſo that he that can doe all of his owne abundance, ſhould be contented with his Pulpit, and not deſpiſe the Deske where his weake brother is gra<g ref="char:EOLhyphen"/>tified.</p>
+                     <p>Thirdly, and chiefly, in reſpect of the Congregation which hang upon the Miniſters lips at Prayers; and in this caſe, ſet formes are moſt profitable; and in two Reſpects, for their Ignorance, and Edi<g ref="char:EOLhyphen"/>fication; thoſe two a Miniſter muſt conſider, the conſtitution of their ſoules, and then how to benefit them. Now in the firſt place,
+<pb n="26" facs="tcp:112744:17"/>a ſet forme ſutes beſt with the Countries Ignorance and their vulgar capacities, for they are not all wiſer then their Teachers, though the proud deſpiſers of our Prayers thinke ſo; yet as S. <hi>Paul</hi> apprehended his <hi>Corinthians,</hi>
+                        <note place="margin">1 Cor. 3.2.</note> 
+                        <hi>Many are babes in Chriſt, and muſt be fed with milke, and not ſtrong meat alone;</hi> and will you venture to give the child every day a new breaſt? It is thought more wholeſome to let it draw the old: Familiaritie makes the child in love with any thing, but <hi>Ignoti nulla cupido,</hi> no deſire to that it doth not know: Prayer oftner heard is better underſtood, digeſted, and turned into whole, ſome fleſh and blood: It is with devotion as with dyet, not ſo good to taſte of every diſh, as to feed of one, ſo Philoſophers and Phyſitians ſay, and ſo Divines: Varietie may delight and pleaſe, (as <hi>Seneca</hi> ſaid of reading,<note place="margin">Varia lectio delectat, certa prodeſt. <hi>Sen.</hi>
+                        </note> ſo I of hearing) but conſtancie and ac<g ref="char:EOLhyphen"/>quaintance brings profit to the hearer. Thoſe that are skilfull in the words and knowing ſoules, could well endure a full rich table; but weake judgements would not get, but loſe at ſo high an ordinary: Therefore we muſt condeſcend to the pooreſt ſoule, and traine up the ſimple ones: We muſt reſpect Chriſts little ones, And how can that be better then by this familiat method of Devotion? We uſe to ſet children Copies and ruled lines, not ſuffer them to wan<g ref="char:EOLhyphen"/>der about the Paper; ſo <hi>Precept upon precept, line upon line,</hi> as <hi>Eſay</hi> teacheth us to repeate the ſame over and over againe:<note place="margin">Eſa. 28.10.</note> We muſt goe along with the flock, as <hi>Jacob, according as they be able to drive;</hi>
+                        <note place="margin">Gen. 33 13.14</note> 
+                        <hi>my Lord Eſau</hi> may gallop to Mount <hi>Seir, Jacob</hi> muſt ob<g ref="char:EOLhyphen"/>ſerve the foot of his tender children, and flocks, and follow them. The Gentiles deſired <hi>the ſame words might be preached the next Sabbath;</hi>
+                        <note place="margin">
+                           <hi>Act.</hi> 13.42.</note> 
+                        <hi>Ergo,</hi> with more reaſon, the ſame prayed; a repetition Sermon is more unſeaſonable then repeated Prayers.</p>
+                     <p>The laſt Argument is drawne from the conſent of all Reformed Churches wherein every Kingdome ſtudieth unitie and uniformitie for Gods ſervice, to avoid confuſion, which would ariſe from hu<g ref="char:EOLhyphen"/>mane pleaſure, if every man might have his will: and be their forme leſſe or more, like or unlike to ours, yet ſtill they have ſome forme (as my fore-mentioned<note n="*" place="margin">Atterſol.</note> Author warrants) <hi>Ergo,</hi> wee are obliged to this, becauſe it is our owne, which is my third Concluſion. But firſt I muſt remove ſome Rubbs out of the way. <label type="milestone">
+                           <seg type="milestoneunit">Ob. </seg>
+                        </label> What makes them reject ſet formes of Prayer? <label type="milestone">
+                           <seg type="milestoneunit">Sol. </seg>
+                        </label> The Spirit, or rather ſelfe-will; for nothing can violate this truth, but ſelfe-conceit:
+<pb n="27" facs="tcp:112744:17"/>But ſtill the Spirit is pretended to ſuffer injurie by ſet formes, to be <hi>ſtinted, quenched, and quite cooled, &amp;c.</hi>
+                        <note place="margin">1 Theſſa. 5.19. Rom. 8.26.</note> But is not the Spirit to be ſeene in Common Prayer, in lifting up the heart,<note place="margin">*</note> in feeling of our wants, and deſires of relieving, and laying hold on God, as well as in <hi>ex tempore</hi> Prayer?<note place="margin">1 Cor 14.15.</note> 
+                        <hi>I will pray with the Spirit and Understanding:</hi> But thankes be to God, I better underſtand the Common-Prayers then that I never heard before; I can better ſay <hi>Amen</hi> to them, becauſe I beſt conceive them. The Miniſter prayes in an unknowne Tongue to the poore Countreyman when hee vents what hee never heard before. Secondly, <label type="milestone">
+                           <seg type="milestoneunit">Ob. </seg>
+                        </label> The Miniſter reades, rather then prayes, ſay they. <label type="milestone">
+                           <seg type="milestoneunit">Sol. </seg>
+                        </label> 
+                        <hi>Anſw.</hi> Hee prayes reading which hee may better doe then they pray ſtudying (as they muſt doe) Where is his Zeale, when hee hath ſenſe to looke, and ſcarce knowes what comes next? <hi>But it ſhall be given in that houre,</hi> 
+                        <label type="milestone">
+                           <seg type="milestoneunit">Ob. </seg>
+                        </label> 
+                        <note place="margin">Mat. 10.19.</note> 
+                        <hi>for it is the Spirit that ſpeaketh in you. <label type="milestone">
+                              <seg type="milestoneunit">Sol. </seg>
+                           </label> Anſw.</hi> Marke what houre that is; of Perſecution, and not of Prayer; of Diſtreſſe, and not of Peace: God will not ſuffer his Church to fall, for want of Truth; that is the meaning of the Text. By that Argument, wee may as well ſhut out all care and ſtudie for a Sermon, as well as Prayer; <hi>For it ſhall be given us, &amp;c. <label type="milestone">
+                              <seg type="milestoneunit">Ob. </seg>
+                           </label> Ob.</hi> Set formes doe not anſwere our wants many times ſo fitly, as conceived. I anſwere: <label type="milestone">
+                           <seg type="milestoneunit">Sol. </seg>
+                        </label> Wants are generall, which concerne all men at all times, and our forme is herein ſufficient; or extraordinarie occaſions of Mercie and Judge<g ref="char:EOLhyphen"/>ments, and herein the Church hath power and reaſon to call a Day, to ſupply it with ſome forme for the purpoſe; or particular wants which the Miniſter doth not looke after for private men for ſo hee may anſwere one man, and miſſe a hundred. And ſo I come to the third Concluſion.</p>
+                     <p>The Excellencie of our ſet forme of Prayer:<note place="margin">
+                           <hi>3.</hi> Concluſ.</note> My Charitie is at laſt arrived at home, and I am proud to doe my Church that honour ſhee deſerves:<note place="margin">*</note> 
+                        <hi>The greateſt glory of our</hi> Engliſh <hi>Church hath ſtood theſe foureſcore yeares and upward in her publique Liturgie;</hi> wherein ſhee hath ſo commended her ſelfe to all the world, that I heare of no deſpiſers but at home. The Nations round about us have ad<g ref="char:EOLhyphen"/>mired our happineſſe herein, and payd that thanks to Heaven for us which wee did owe. If <hi>Calvin</hi> and <hi>Beza</hi> had dwelt here, wee had had their approbation, (as by ſome Letters into <hi>England</hi> I con<g ref="char:EOLhyphen"/>ceive) they would have ſtudied no new Diſcipline, where they
+<pb n="28" facs="tcp:112744:18"/>had found this. As oft as I looke upon our forme of Service, to me it is a matter of thankſ-giving, and not diſpute. But ſince there are ſuch Owies at <hi>Athens,</hi> that ſtudie to defile their owne neſts; ſuch male-contented ſoules, that miſſing ſome temporall preferments in the Church, would deface the ſpirituall, and be re<g ref="char:EOLhyphen"/>venged on Gods honour for loſſe of their owne: Give me leave to doe my beſt to beat back their tongues, and fling their inſolence in<g ref="char:EOLhyphen"/>to their tumultuous boſomes.</p>
+                     <p>I ſhall advance the excellencie of our Liturgie, or forme of Prayer, from three apprehenſions.</p>
+                     <list>
+                        <item>1. Of the Authors and Authoritie.</item>
+                        <item>2. Of the Forme and Worke it ſelfe.</item>
+                        <item>3. Of the Circumſtances and Conſtitution thereof.</item>
+                     </list>
+                     <p>Firſt, The Authors and Compilers are unknowne to me by name, but you ſhall <hi>know them by their workes,</hi> (as Chriſt faith) and by the age and time wherein they lived, which are undoubted Argu<g ref="char:EOLhyphen"/>ments. They were thoſe holy men of God that lived in the dayes of <hi>Edward</hi> the ſixth, the firſt Fruits of the Church of <hi>England,</hi> the Reverend Fathers of the Church, that ſtrook fire out of darkneſſe in the dayes of <hi>Poperie,</hi> and ſet their faces againſt the Church of <hi>Rome,</hi> little dreaming their book ſhould be requited with the name of <hi>Poperie</hi> for their paines, that were readie to kiſſe the Stake in Queen <hi>Marie's</hi> dayes, for the maintenance of this Booke and Service.</p>
+                     <p>Here is the foule diſcovery of our not-underſtanding Age, that would faine make men beleeve that Booke is <hi>Poperie,</hi> whoſe Au<g ref="char:EOLhyphen"/>thors dyed for the teſtimonie of <hi>Jeſus,</hi> and the defence of this Book. Some of them fled for perſecution, untill the dayes of Queene <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi> and then came home and enjoyed this Booke and Service by her approbation.</p>
+                     <p>There is ſomething to be given to the Authors in ſuch a caſe; for if our ſinging Pſalmes ſhall paſſe in the Church, in reverence to Antiquitie, though <hi>Tho. Sternhold,</hi> and <hi>John Hopkins</hi> (ſome ho<g ref="char:EOLhyphen"/>neſt Gentlemen) made them, when King <hi>James</hi> and <hi>Sandys</hi> lye by; ſhall not our Service-Booke be much more honoured, that comes from the Fathers of the Church, whoſe perſons and endowments
+<pb n="29" facs="tcp:112744:18"/>were farre more Illuſtrious? But whoſoever the Authors were, the Authoritie is greater: It is given to us by the higheſt Powers, which God hath ordained in this Realme by thoſe foure<note n="*" place="margin">Edward <hi>the ſixth.</hi> Elizabeth. <hi>K.</hi> James. <hi>K.</hi> Charles.</note> Princes, and all their Parliaments; ſo that for any Factor to blaſt this Work, it is to pull downe all Authoritie upon his head, and <hi>to receive to himſelfe damnation, Rom.</hi> 13.</p>
+                     <p>Secondly, The Worke it ſelfe beſpeakes its excellencie more then my tongue, or all Authoritie can grace it: I may commit it to the world with <hi>Salomons</hi> huſwiſe:<note place="margin">Prov. the laſt, laſt v.</note> 
+                        <hi>Let her owne workes praiſe her in the gates.</hi>
+                     </p>
+                     <p>Looke but upon the <hi>Liturgie</hi> in a curſorie view and from the firſt piece of Divine Service to the laſt, you ſhall find it ſo Divine, that indeed it is all Scripture; nothing Humane, but the ſtructure and compoſing. Hee that hath but taſted the Bible, will ſoone reliſh the <hi>Liturgie,</hi> and ſay, that it is <hi>Mannah</hi> fallen in another Coun<g ref="char:EOLhyphen"/>trey, Divinitie in Humane Dreſſe: ſo that none can truly quarrell with this Booke, but he that knowes not, or hates Divinitie; that is a Stranger, or Enemie to God. Let us bring it to the Teſt. Marke every word one Sabbath: Our <hi>Prayers</hi> begin with one Sen<g ref="char:EOLhyphen"/>tence of Scripture, or other:</p>
+                     <p>[<hi>At what time ſoever,</hi> 
+                        <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                        <hi>&amp;c.</hi>] Then the Curate moveth them to make <hi>a generall Confeſſion</hi> of ſinnes to God: <milestone type="tcpmilestone" unit="unspecified" n="2"/> Every mans Con<g ref="char:EOLhyphen"/>ſcience tells him the words be true, and the cuſtome of it is bor<g ref="char:EOLhyphen"/>rowed from the Scripture: See <hi>Ezra</hi> 9. to the end and chap. 10.1. <hi>Dan.</hi> 9. <hi>Nehemiah</hi> 9. <hi>Iſrael</hi> made often generall Confeſſions
+<list>
+                           <item>
+                              <hi>In</hi> the Captivitie.</item>
+                           <item>
+                              <hi>After</hi> the Captivitie.</item>
+                        </list>
+                     </p>
+                     <p>Neither doth any quarrell with this Piece in all my intelli<g ref="char:EOLhyphen"/>gence.</p>
+                     <p>The <hi>Abſolution</hi> followes which is proncunced by the Miniſter alone by a legible Commiſſion delegated to him, <hi>Mat.</hi> 16.19. <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                        <hi>Joh.</hi> 20.23.</p>
+                     <p>But here the phraſes are offenſive, <label type="milestone">
+                           <seg type="milestoneunit">Ob. </seg>
+                        </label> the name of Churches Power and Abſolution.</p>
+                     <p>The Clergie hath a Power. <label type="milestone">
+                           <seg type="milestoneunit">Sol. </seg>
+                        </label>
+                     </p>
+                     <list>
+                        <pb n="30" facs="tcp:112744:19"/>
+                        <item>There is <hi>Certitudo Potestatis,</hi> in the Miniſters Office, and Gods Ordinance.</item>
+                        <item>There is <hi>Non eventús,</hi> in the parties remiſſion.</item>
+                     </list>
+                     <p>Hee knowes hee hath a Power from Chriſt, but knowes not when and where perſonally that Power taketh effect. Secondly, There needs no complaining here; for hee onely appeares declara<g ref="char:EOLhyphen"/>tive, in that forme of Abſolution, and beſpeakes Gods mercie to penitent ſinners: as wee may ſafely denounce Gods Judgements to the impenitent, ſo pronounce his Mercie to repenters.</p>
+                     <p>
+                        <hi>[He declareth and pronounceth to his people being penitent]</hi> It is onely <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, Eſ. 52.7. <hi>How beautifull were the feet that brought good Tidings?</hi>
+                        <note place="margin">Eſa. 40.9.</note> Now <hi>Zion</hi> doth but <hi>bring good Tidings,</hi> and is ſcorned. Chriſt hath leſt the comfortable Promiſes of Pardon in his Word, and may not wee declare them? Beſides, hee abſolves in the third Perſon, not the firſt; in Chriſts Perſon, not his owne: if you obſerve the forme;</p>
+                     <p>
+                        <hi>[Hee pardoneth and abſolveth]</hi> i. e. <hi>Christ:</hi> There is
+<list>
+                           <item>
+                              <hi>He,</hi> 
+                              <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>, <hi>Poteſtativè.</hi>
+                           </item>
+                           <item>
+                              <hi>I,</hi> 
+                              <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>, <hi>Declarativè.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <p>No encroachments here on Gods right, or the errors of the Church of <hi>Rome.</hi> The Miniſter abſolves, but not abſolutely, onely Miniſterially and inſtrumentally, diſpoſing the penitent to ſorrow, and moving God to pitie; co-operates on both ſides, applying Actives to Paſſives, Gods promiſes of Mercie to the penitent faithfull Soule: Hee remits not by Phyſicall influence on the Soule, but by a Morall perſwaſion; and ſo no <hi>Poperie</hi> in that.</p>
+                     <p>Then followes the <hi>Lords Prayer</hi> which is Scripture; ſome ſhort Sentences, <milestone type="tcpmilestone" unit="unspecified" n="4"/> to rayſe up our hearts to Gods ſervice, all out of Scrip<g ref="char:EOLhyphen"/>ture: <milestone type="tcpmilestone" unit="unspecified" n="5"/> The two firſt, <hi>Pſal.</hi> 51.15. <hi>Open thou my lips, &amp;c. Haſte thee to deliver me;</hi>
+                        <note place="margin">Pſa. 40.13.</note> 
+                        <hi>O Lord make haſte to helpe me.</hi> The <hi>Glory be to the Father, &amp;c.</hi>
+                        <note place="margin">Pſa. 40.13.17.</note> and <hi>Hallelujah</hi> out of <hi>Revel.</hi> 4.8. from the 4. <hi>Beasts,</hi> and 24. <hi>Elders.</hi>
+                     </p>
+                     <p>
+                        <hi>O come let us ſing unto the Lord,</hi> 
+                        <milestone type="tcpmilestone" unit="unspecified" n="6"/> is <hi>Davids</hi> 95. <hi>Pſal.</hi> And to countenance that, obſerve, That the <hi>Jewes</hi> uſed to read the
+<pb n="31" facs="tcp:112744:19"/>92. <hi>Pſalme</hi> every Sunday, as the Title ſhewes. <milestone type="tcpmilestone" unit="unspecified" n="7"/> The reading Pſalmes are Scripture. The firſt Leſſon is Canonicall, <milestone type="tcpmilestone" unit="unspecified" n="8"/> Old Te<g ref="char:EOLhyphen"/>ſtament. The <hi>Canticle</hi> that followes, <hi>Wee prayſe thee, O God, &amp;c.</hi> 
+                        <milestone type="tcpmilestone" unit="unspecified" n="9"/> is well knowne to be Saint <hi>Ambroſe's</hi> worke. <milestone type="tcpmilestone" unit="unspecified" n="10"/> The ſecond Leſ<g ref="char:EOLhyphen"/>ſon is Evangelicall. The <hi>Canticle</hi> that followes, <milestone type="tcpmilestone" unit="unspecified" n="11"/> that is either <hi>Zacharies</hi> Song, <hi>Luke</hi> 1.68. or <hi>Davids</hi> 100. Pſalme. <milestone type="tcpmilestone" unit="unspecified" n="12"/> The <hi>Creeds:</hi> firſt, the <hi>Apostles Creed,</hi> whether they made it, or no, I know not, or made out of them, or made in reſpect of them, being twelve Articles to the <hi>Twelve Apostles:</hi> It is the Pillar of out Faith, and ſumme of all the Scripture: The other Creed is <hi>Athanaſius</hi> againſt the <hi>Arrians:</hi> And the third, is the <hi>Nicene Creed,</hi> againſt the<note n="*" place="margin">Neſtorians. Macedonians.</note> Hereticks of that Age. The next that fol<g ref="char:EOLhyphen"/>lowes is the Curates Bleſſing, by forme of ſalutation, <milestone type="tcpmilestone" unit="unspecified" n="13"/> 
+                        <hi>The Lord be with you;</hi> and their care and dutie replyed, <hi>And with thy Spirit:</hi> An excellent forme to preſerve mutuall Obligations each to other; and this is Scripture, <hi>Ruth</hi> 2.4.<note n="*" place="margin">1 Theſſ. 1.2. &amp; ch. 5.25.</note> The three. <hi>Miſe<g ref="char:EOLhyphen"/>rere's,</hi> or calling for of Mercie out of <hi>Pſal.</hi> 57.1. <hi>Luke</hi> 18.38. in reference to the three Perſons of the Trinitie. <milestone type="tcpmilestone" unit="unspecified" n="14"/> Then the <hi>Lords Prayer.</hi> The <hi>Responſes</hi> are taken out of Scripture: <milestone type="tcpmilestone" unit="unspecified" n="15"/> The two firſt, <hi>Shew us thy mercie, O Lord, and grant us thy ſalvation, ver<g ref="char:EOLhyphen"/>batim</hi> out of <hi>Pſal.</hi> 85.7. <hi>God ſave the King,</hi> 1 Sam. 10.24. <hi>Mercifully heare us,</hi> Pſal. 4.1. <hi>Endue thy Ministers;</hi>
+                        <note place="margin">Pſa. 85.7.</note> and that an<g ref="char:EOLhyphen"/>ſwer, <hi>Let thy Priests be cloathed with righteouſneſſe, and let thy Saints ſing with joyfulneſſe: Save thy people,</hi>
+                        <note place="margin">Pſal. 132.9.</note> 
+                        <hi>and bleſſe thine inhe<g ref="char:EOLhyphen"/>ritance,</hi> Pſal. 28.9. <hi>Pray for the Peace of Jeruſalem,</hi> Eſ. 39.8. Pſal. 122.6. The anſwer, <hi>Exod.</hi> 14.14. 2 <hi>Chron.</hi> 20.12. <milestone type="tcpmilestone" unit="unspecified" n="16"/> The Collects for the day, for Grace and Peace, and all the Collects in that <hi>Liturgie,</hi> theſe ſeeme to be the moſt humane Pieces, (as for Faire Weather, or Raine, and Thanks-giving for the ſame) and ſo they are, and perchance better may be made. But no Eye, ſa<g ref="char:EOLhyphen"/>ving that of Ignorance and Envie, would diſparage theſe: They are innocent and good; and why ſhould any grow wanton of wholeſome Food?</p>
+                     <p>The <hi>Letanie</hi> is the onely thing to be ſuſpected for its length and varietie, and ſuffers much in their Opinions. They ſay, <milestone type="tcpmilestone" unit="unspecified" n="17"/> there is Conjuring, and what you will, &amp;c. But of all Peeces of <hi>Service,</hi> give me the <hi>Letanie;</hi> it is ſo ſubſtantiall and powerfull, that
+<pb n="32" facs="tcp:112744:20"/>it is able to make a man devout by violence; it commands a zeale, and ſeizeth upon the ſoule of any impartiall hearer.</p>
+                     <p>The <hi>ſecond Service</hi> (as ſome call it) it is all one to me, <milestone type="tcpmilestone" unit="unspecified" n="18"/> both for forme and place, a continued progreſſé of Devotion: There the <hi>Ten Commandements</hi> appearè,<note place="margin">Exod. 20,</note> which concerne us as well as <hi>Iſrael.</hi> Certainly, there is not any Commandement but deſerves <hi>the Lord have mercie on us:</hi> A little Prayer that incloſeth all; begges mercie for what it hath done againſt that Law, and diſpo<g ref="char:EOLhyphen"/>ſition better to keepe it in time to come:</p>
+                     <p>It lookes Backward and Forward, <hi>Miſerere &amp; Inclina.</hi>
+                     </p>
+                     <p>Next follow the Collects for the <hi>King</hi> and <hi>Day,</hi> 
+                        <milestone type="tcpmilestone" unit="unspecified" n="19"/> which muſt goe ſharers with the former Collects both for diſpleaſure and ac<g ref="char:EOLhyphen"/>ceptance; wee approve them both. The <hi>Epiſtle</hi> and <hi>Gospel</hi> next ſucceeding, both the good Word of God, unleſſe it loſeth its ver<g ref="char:EOLhyphen"/>tue by being Printed in this Booke. After all, the Prayer for the <hi>whole eſtate of Chriſts Church militant;</hi> and, <hi>The Peace of God</hi> at that end of the Booke, or <hi>S. Chryſoſtomes</hi> Prayer; and, <hi>The grace of our Lord Jeſus Chriſt</hi> at this end.</p>
+                     <p>Thus I have viewed it in haſte, and meaſured every ſyllable of <hi>Divine Service,</hi> and find it ſo abſolute, that none can juſtly quarrell with this forme but Gyants.</p>
+                     <p>Laſtly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> there is ſomething to be attributed to the conſtitution of our <hi>Liturgie,</hi> the circumſtances of this <hi>Service,</hi> both for Time, Manner, Method of Prayers: The length is not tedious, the Ceremonies not unſeemely, or unprofitable; the Method is not barren.</p>
+                     <p>Firſt, for the length of Prayer; it is but <hi>Hora,</hi> the buſineſſe of an Houre: which ſpace the Scripture ſeemes to ſmile on, <hi>Act.</hi> 3.1. <hi>The houre of Prayer being the ninth houre,</hi> all that houre for de<g ref="char:EOLhyphen"/>votion. <hi>Matth.</hi> 26.39. Chriſt came from Prayer, and chid his Diſciples, <hi>What could ye not watch with me one houre?</hi> So long I imagine hee was praying. Thoſe that cannot pray one houre without impatiencie and complaint, will <hi>willingly ſit and
+<pb n="33" facs="tcp:112744:20"/>ſee two Glaſſes turned, to heare a peale out of the Pulpit, though it be Non-ſenſe:</hi> It is a ſigne, <hi>their eares are better Zelots them their hearts.</hi>
+                     </p>
+                     <p>Secondly, The Ceremonies of Service in this caſe are phyſicall, and doe not onely provide for edification of the Soule, but eaſe of the Body: And whereas a man might be wearie to fit, ſtand or kneele, ſo long; the Church hath ſo equally tempered theſe Po<g ref="char:EOLhyphen"/>ſtures of Divine Service, that it will ſeeme a curteſie to any but a froward nature: There is twice kneeling, ſtanding, and ſitting, and thoſe woven within one another, ſo that a man needs not chuſe a poſture to eaſe himſelfe, if he be pleaſed to accept one from the Church: The Church hath laboured to gratifie the body with the mind: For beſides this humane reaſon they carry a heavenly. Every poſture of the body is doctrinall to the mind; kneeling, beſpeaks hu<g ref="char:EOLhyphen"/>miliation: ſtanding, conſtancie and profeſſion, as at <hi>Creed,</hi> and <hi>Gospel;</hi> ſitting, compoſed attention. <hi>The foole teacheth with his fingers,</hi> ſaith <hi>Salomon,</hi> ſo the wiſe man with his body: Every geſtate is a Lecture, every limb a line:<note place="margin">1 Cor. 14.5.</note> There is a carriage to be obſerved in Devotion; S. <hi>Paul</hi> bids us, that <hi>all be done to edification.</hi> Now, no edification to another, without the body; the body is the Looking-glaſſe of the Soule; no man gueſſes at her apprehenſions but by outward demonſtrations, an obſervant carriage in this ſenſe edifies both my owne ſoule and others.</p>
+                     <p>Thirdly, and laſtly, The method is not barren, it is made up Of
+<list>
+                           <item>
+                              <hi>Praying.</hi>
+                           </item>
+                           <item>
+                              <hi>Reading.</hi>
+                           </item>
+                           <item>
+                              <hi>Thanks-giving.</hi>
+                           </item>
+                        </list>
+                     </p>
+                     <p>As the body, (by Anatomiſts) is divided into three Regions, ſo the body of Devotion: There is
+<list>
+                           <item>
+                              <hi>Oratorie,</hi> in Letanie, Prayers, and Collects.</item>
+                           <item>
+                              <hi>Historie,</hi> in Chapters, Epiſtles, and Goſpell.</item>
+                           <item>
+                              <hi>Praiſe,</hi> in the Canticles, <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>.</item>
+                        </list>
+                     </p>
+                     <p>To bring all to a perfect tryall,<note place="margin">Concluſ.</note> and to weigh our opinions in the
+<pb n="34" facs="tcp:112744:21"/>ſcales of the Sanctuary: Is there any thing now within the compaſſe of imagination, that may ſeem to excell this forme of Service? Yes, a ſelfe-conceited Prayer: This is all one to me, as if a man ſhould pull downe the faire ancient Pictures in a roome, to hang up his owne deformitie; to throw downe all the Kings in <hi>Westminster,</hi> and preſerre his owne aſhes above their glorious Monuments: Aske but that man himſelfe, if he will undertake the quarrell, eve<g ref="char:EOLhyphen"/>ry time the Bell rings to Church to conceive a better mold and Copie of Devotion to the people: If he ſaith, yea: take him at his word: Let us heare his new prayer, and let the world be judge be<g ref="char:EOLhyphen"/>twixt that and ours, If no man will undertake to mend this every day, then I am not ſo ſimple but to keepe the beſt: <hi>Prove all things,</hi>
+                        <note place="margin">
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Theſſ. 5.21.</note> 
+                        <hi>hold faſt that which is good.</hi>
+                     </p>
+                     <p>And ſhall this <hi>Liturgie</hi> now be branded by the name of <hi>Poperie?</hi> Hath God ſhut our eyes, and are we in the midſt of <hi>Samaria,</hi> 2. <hi>King.</hi> 6.20. Lord open their eyes that they may ſee: We thank God we are at home, and not miſled into ſtrange opinious. But what doe theſe men deſerve? <hi>Deut.</hi> 22.19. <hi>That husband that rayſed up an evill report of his wife, was puniſhed by Moſes Law, both with chaſtiſements, and amercements, verſ.</hi> 18.19. The reaſon is given, verſ. 20. <hi>Becauſe he brought up an ill name upon a Virgin in Iſrael.</hi> If a Child ſhould doe ſo by a Mother, it would be more ungracious; a Husband with more authoritie and credit may call his Wife Whore, then a Child her that bare him: What Children hath our Mother brought forth, that bring up a fame, not onely up<g ref="char:EOLhyphen"/>on <hi>a Virgin in Iſrael;</hi> but which is more, their <hi>Virgin-Mother?</hi> That is not backward to ſhew to all the world the <hi>tokens of her virginitie,</hi> her unſpotted ſervice of God: What puniſhment theſe Children deſerve, I leave to God and to his Magiſtrates. <hi>Numb.</hi> 14.36.37. Thoſe men that were ſent to ſearch the Land, promi<g ref="char:EOLhyphen"/>ſed, and brought up an evill report of <hi>Canaan,</hi> dyed of the Plague: The Plague hath hung many yeares within our Citie, and in the Kingdome, and may doe ſtill untill the murmuring be gone: Thoſe that give Gods Church a black marke no wonder if he gives there a blew marke, and viſits their ſinnes with his Viſitation.</p>
+                     <p>To touch upon the laſt part:<note place="margin">
+                           <hi>
+                              <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>.</hi> Part.</note> Our <hi>Divine Service</hi> is ſarre more from <hi>Poperie. Quae commu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>io? &amp;c.</hi> The beſt way to prove her
+<pb n="35" facs="tcp:112744:21"/>Innocence, will be to have recourſe to them that ſtaine it; what makes men ſay its pure <hi>Poperie:</hi> to take a compaſſe of their envie and ignorance in this kind; all the preſumptions that breed this, aſperſion are reducible to three heads.</p>
+                     <list>
+                        <item>
+                           <hi>The</hi> Originall of it.</item>
+                        <item>
+                           <hi>The</hi> Matter and Worke.</item>
+                        <item>
+                           <hi>The</hi> Rites and Ceremonies.</item>
+                     </list>
+                     <p>
+                        <hi>Either becauſe,</hi>
+                        <list>
+                           <item>1. Its taken out of their <hi>Maſſe.</hi>
+                           </item>
+                           <item>2. Some paſſage in it ſhakes hands with <hi>Poperie.</hi>
+                           </item>
+                           <item>3. We conſpire in Actions and Rites of <hi>Service</hi> with them.</item>
+                        </list>
+                     </p>
+                     <p>All that can be imagined againſt it, muſt come within this Cir<g ref="char:EOLhyphen"/>cle: Therefore if in none of theſe it be <hi>Poperie,</hi> its not at all. To obſerve my owne method, let us try it in the firſt teſt.</p>
+                     <p>Firſt They ſay, tis taken out of their <hi>Liturgic,</hi> the <hi>Roman</hi> Miſſalls: So theſe men conceive, <hi>that cannot ſee afarre off</hi> as S. <hi>Peter</hi> ſpea<g ref="char:EOLhyphen"/>keth: 2. <hi>Epist.</hi> 1.9. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, their eyes are mewed up within the ſhallow Precincts of time. But grant it be taken thence, if the cor<g ref="char:EOLhyphen"/>ruption be excluded, is it ever the worſe to us? If it be taken out of the <hi>Alcaron, Synagogue, Plate, Aristotle,</hi> if no Mahumetiſme, Iudaiſme, Ethniciſme, Irreligion, out of the <hi>Maſſe,</hi> If no Super<g ref="char:EOLhyphen"/>ſtition, or Error, of our Prayers be as good as God expects, or any man can make, what care I if they were taken out of Hell? I was never taught to ſlight a Jewell, though it came from a dunghill, Gold from a dirtie Mine; but am glad ſtill to ſee a faire Sunne riſe from the black wombe of the morning:<note place="margin">Prov. 25.4.</note> 
+                        <hi>Take away the droſſe from the Silver, and there will come forth a veſſell for the refiner,</hi> ſaith <hi>Solomon:</hi> Take away the Errors from the <hi>Maſſe,</hi> and that which is left is thine and mine.</p>
+                     <p>But theſe men are much miſtaken by carrying their heads too low they know not the true Pedigree of our <hi>Common-Prayers,</hi> which is older by many dayes then <hi>Poperie</hi> it ſelfe; and was borne before that Schiſme came in: For this I would have Wife men underſtand, we doe not claime any thing in our Church from
+<pb n="36" facs="tcp:112744:22"/>the Church of <hi>Rome,</hi> but above them: We doe not like the <hi>Iſraelites,</hi> borrow any Jewells of the <hi>Aegyptians,</hi> but like <hi>Laban</hi> to <hi>Jacob,</hi> we ſearch their houſes to ſee what Jewells they have of ours, which were leſt us by the Primitive Fathers. And dare be bold to ſay as <hi>Laban,</hi>
+                        <note place="margin">Gen. 31.43.</note> (with a farre better title) <hi>Theſe Ceremonies be my Ceremonies, theſe Prayers my Prayers;</hi> as he of his Daugh<g ref="char:EOLhyphen"/>ters, &amp;c. For I will never yeeld that we derive from them, that we are the Apes of <hi>Rome,</hi> or conſent with them in any thing, but what they reſerve from the Primitive Churches; and that belongs to us likewiſe.</p>
+                     <p>To conceive this aright, no man can be ignorant that doth but liſten how the world went befor us, that we and they, Pro<g ref="char:EOLhyphen"/>teſtants and Papiſts, were all one Family of Chriſt, one true Church heretofore: there were no ſuch names and diſtinctions heard of, nor Schiſmes conceived, but lay in one boſome of a Church, and ſerved God with joynt hearts and minds: This Union was from the Apoſtles times, downewards to the Primitive Fathers. To take all along with us now, doe you think there were not <hi>Liturgies</hi> and Formes of <hi>Service</hi> then? Yes, no phraſe more common a<g ref="char:EOLhyphen"/>mong the Ancient Writers then to talke and recite their <hi>Litur<g ref="char:EOLhyphen"/>gies:</hi> S. <hi>James, Athanaſius, Baſil,</hi> and <hi>Chryſostomes</hi> Litur<g ref="char:EOLhyphen"/>gie, &amp;c.</p>
+                     <p>Well then, in thoſe Formes of Prayer which the Fathers uſed, we were both friends, one Family ſtill. But afterwards the <hi>Iſraelites</hi> fell out, ſtrove, and would not be parted, both ſides haſted from one another.</p>
+                     <p>We,<note place="margin">Mark. 14.52.</note> (like the Young-man in the Goſpel, that night Chriſt was taken) fled away naked, and leſt all our Formes and Ceremonies be<g ref="char:EOLhyphen"/>hind us;<note place="margin">Exod. 2. Gen. 28.</note> like <hi>Moſes,</hi> quitted the Court of <hi>Aegypt,</hi> and went into the Land of <hi>Midian;</hi> like <hi>Jacob</hi> from <hi>Eſaus</hi> fury, fled and dwelt in <hi>Syria,</hi> by reaſon of the Perſecution. All this while the <hi>Litur<g ref="char:EOLhyphen"/>gies</hi> of the Fathers by them was utterly corrupted, and patched up into a Monſter of Superſtition: by us they were almoſt loſt, like the <hi>Booke of the Law</hi> in <hi>Hilkiahs</hi> dayes,<note place="margin">1 King. 22. v. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 2 King. 7.15.</note> it was hid in a cornet, and all our obſervances touching Gods Worſhip, like the <hi>Syriaks veſſels,</hi> were <hi>caſt away for haste,</hi> and feare of Perſecution: At laſt, when Religion and Reformation began to looke out againe, and
+<pb n="37" facs="tcp:112744:22"/>beare a face, wee began to bethinke our ſelves where once wee were, and what the Church had when wee were both friends. And that wee challenge now as a Legacie from our fore fathers; not an imitation and courteſie from a Brother.</p>
+                     <p>As if a <hi>Jew</hi> ſhould loſe his ancient Rites and Preſcripts of <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> (as at this day much is loſt in many Synagogues by deſolation of that people) yet comming into the Empire of the <hi>Turke,</hi> hee may eſpie many of his Rites and Legall Ceremonies, though much abuſed, and thence ſeeing his priviledges, and what once hee had, may purifie and compoſe to himſelfe this forme of worſhip; you could not the <hi>Jew</hi> in this caſe be ſaid to borrow his Religion from the <hi>Turke,</hi> but <hi>Moſes:</hi> So wee by looking on their <hi>Litur<g ref="char:EOLhyphen"/>gies,</hi> ſee our way the better by their darkneſſe to arrive at laſt at the primitive formes of <hi>Service.</hi> So that I may ſay of our Re<g ref="char:EOLhyphen"/>formers and compoſers of this Worke,<note place="margin">Gen. 42.15.</note> as <hi>Joſephs</hi> Brethren pleaded for their honeſtie; <hi>Thy ſervants are no Spyes. Hereby it ſhall be proved that wee are true men,</hi> by Antiquitie, not Noveltie; not by <hi>Benjamin,</hi> but <hi>Jacob; wee have a Father, an old man;</hi> the ancient Fathers of the Church. And when I ſee our Prayers filled with Scriptures, Saint <hi>Ambroſe, Athanaſius, Chryſoſtome,</hi> the Apoſtles, and <hi>Nicene</hi> Fathers, I cannot be ſo dull, but beleeve that it is older then <hi>Poperie,</hi> and lived before that Schiſme, the ſubſtance and matter, if not the contrivance.</p>
+                     <p>Many learned men have ſhewed the antiquitie of our Church Rites and <hi>Service;</hi> therefore will I ſay no more here: But onely excuſe the ignorant in their conceits, that are apt to foſter ſtrange Jealouſies of that which is out of their reach, and older then their idle braines. The <hi>Jewes</hi> had a conceit, that <hi>Melchiſedech</hi> had no Parents, becauſe they knew them not, in their time: ſo people beleeve this Booke to be a Baſtard, becauſe they were not the Goſſips. But the Face beſpeakes whoſe Child it is, and pro<g ref="char:EOLhyphen"/>claimes it as like the Fathers <hi>Liturgies,</hi> as unlike the formes of <hi>Rome.</hi>
+                     </p>
+                     <p>Secondly, there is no point, nor paſſage in all <hi>Divine Service,</hi> that is <hi>Poperie,</hi> or favours a Tenent of the Church of <hi>Rome;</hi> I prove it by this Argument: That forme which is taken out of Scripture almoſt to a ſyllable, is not <hi>Poperie;</hi> for it the Scripture
+<pb n="38" facs="tcp:112744:23"/>cannot defend it from <hi>Poperie,</hi> I have no more to ſay. But our forme is ſo: <hi>Ergo,</hi> the <hi>Minor</hi> is true, as I have proved by an <hi>Induction</hi> of every part: The <hi>Concluſion</hi> followes, that it is no <hi>Poperie</hi> at all. And 'though all Heretikes make Scripture their <hi>Aſylam,</hi> and ſhrowd their Lyes under the wings of Truth; yet there is difference ſtill betwixt Scripture ſpeaking, and Scripture made to ſpeake. Wee doe not goe about to force a Text to coun<g ref="char:EOLhyphen"/>tenance our forme by corrupting the Originals and Tranſlations; but the Bible freely and naturally offers it ſelfe to defend us in our <hi>Liturgie.</hi>
+                     </p>
+                     <p>I know there have beene many Objections and Exceptions ray<g ref="char:EOLhyphen"/>ſed, to make a piece of <hi>Poperie</hi> appeare out of <hi>Baptiſme, Burtall, Letanie,</hi> &amp;c. But they have found a Grave by abler Champi<g ref="char:EOLhyphen"/>ons then I: if any chance to ſtirre hereafter, I doubt not but there will be a * <hi>Mahanaim,</hi>
+                        <note place="margin">Gen. 32.2.</note> 
+                        <hi>An Hoſt of God to meet them.</hi>
+                     </p>
+                     <p>Thirdly, there ſeemes to be too much affinitie betwixt their forme and ours; in Actions, Devotion, Rites, Ceremonies, Veſ<g ref="char:EOLhyphen"/>ſels, Orders, Croſſing, Kneeling, Surplis, Table, Font, Biſhops, &amp;c. wee dwell too neare them; they looke too like us, or wee like them. Theſe men are ſickly peeviſh in my conceit, that would rather have a face like an Aſſe, or no body, then an enemie, one whom they love not. But I will not quarrell about the complexions: Wherein ſoever our <hi>Services</hi> conſpire, Rites, Acti<g ref="char:EOLhyphen"/>ons, Ceremonies, Veſſels, Orders, &amp;c. They are Ancient, Inno<g ref="char:EOLhyphen"/>cent, Indifferent: Which is enough to quit us in the Judgement of all Reformed Divines that write upon Ceremonies of the Church.</p>
+                     <p>Firſt, They are Ancient, <hi>Jer.</hi> 6.16. we doe not goe a begging for them. <hi>England</hi> is called the Ape of Nations for the faſhions of the body; but for thoſe of Religion, I beleeve ſhe is her ſelfe, and waits on none but God and Reaſon.</p>
+                     <p>Secondly, They are Innocent, if a man (in the Law of God) had taken a woman Captive of the Gentiles Nation,<note place="margin">Deut. 21. v. 12.</note> in the Warres of <hi>Iſrael,</hi> yet he might ſhave her head and pare her nayles, bring her home, and take her to Wife: And thoſe Veſſels that were de<g ref="char:EOLhyphen"/>filed, waſhing brought many into the Sanctuarie. So wee have
+<pb n="39" facs="tcp:112744:23"/>waſhed our Churches, and Veſſels left us, we have pared their nayles, their Idolatrie, and Superſtition, and they are cleane to us.</p>
+                     <p>Thirdly. They are Indifferent, and ſo Authoritie hath power to command them, to Kneele, Sit, or Stand: The Church of her ſelfe hath liberty to enjoyne the practiſe and ſee it done; to Re<g ref="char:EOLhyphen"/>peat, Anſwer, Sing; and if the Papiſts doe the ſame, what is that to us? ſhall we be oppoſite to Reaſon and duty, that we may be unlike them?</p>
+                     <p>Beſides the Rites and Orders of <hi>Divine Service</hi> (I ſpeake of Spa<g ref="char:EOLhyphen"/>ring, Seemely, Regular, not Superſtitious.) They have three Ad<g ref="char:EOLhyphen"/>vancements in my breaſt.</p>
+                     <p>
+                        <hi>They are the</hi>
+                        <list>
+                           <item>Peace</item>
+                           <item>Grace</item>
+                           <item>Obedience</item>
+                        </list> of a People.</p>
+                     <p>Firſt, They are the peace of a Church, which lyes in Uniform<g ref="char:EOLhyphen"/>tie. For as the Doctrine is the Truth, ſo the Diſcipline is the Peace; wherein ſhall we and our poſterities in the Church agree? but in that mold of Regularity we caſt our ſelves: Therefore let there be Peace and Truth in my dayes, good Doctrine, and good Diſcipline.</p>
+                     <p>Secondly, They are the outward grace and civilitie of a Con<g ref="char:EOLhyphen"/>gregation: they frame a carriage at <hi>Divine Service,</hi> which wee owe to God and to his houſe. Love doth not behave it ſelfe unſeemely ſaith S. <hi>Paul,</hi>
+                        <note place="margin">1 Cor. 13.</note> but obſerveth a comelineſſe and <hi>Decorum</hi> in Religion. Now nothing doth more civilize the rude-vulgar in Devotion, then this Regulated obſervance in the houſe of God, it bindeth them to their good behaviour.</p>
+                     <p>Thirdly, It is the obedience which we owe to humane ordinan<g ref="char:EOLhyphen"/>ces, 1 <hi>Pet.</hi> 2.13. All Churches have leſſe or more Injunctions and are obeyed: theſe are ours, God ſpeed obedience to them, Let this be the ſtaine of <hi>England,</hi> no Reformed Church diſobeyeth her Ceremonies but ours; although they are often oppoſite, yet Uniforme at home: Walking, Standing, Sitting, Kneeling at the
+<pb n="40" facs="tcp:112744:24"/>Sacrament, all cannot be beſt, yet is all of them beſt at home; it is ſtrange ours ſhould be worſt ſtill, here is the Reaſon, wee are worſt obeyers. <label type="milestone">
+                           <seg type="milestoneunit">Ob. </seg>
+                        </label> And to anſwer an Objection before wee part, which undermines them all, they are obtruded on the Church as neceſſary, impoſed on the Conſciences of the people to ob<g ref="char:EOLhyphen"/>ſerve.</p>
+                     <p>I anſwer,<note place="margin">
+                           <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>.</note> no otherwiſe then S. <hi>Paul</hi> chargeth obedience to the Magiſtrates for Conſcience, ſake, <hi>Rom.</hi> 13.5.</p>
+                     <p>
+                        <hi>Ceremonies are all</hi>
+                        <list>
+                           <item>Indifferent in their nature.</item>
+                           <item>Neceſſarie in their practiſe.</item>
+                        </list>
+                     </p>
+                     <p>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> as good have none at all, as every man have the authoritie to neglect them.</p>
+                     <p>
+                        <hi>They are</hi>
+                        <list>
+                           <item>Indifferent, <hi>Speculativè,</hi> in the propoſition.</item>
+                           <item>Neceſſarie, <hi>Practicè,</hi> in the uſe and obſervance.</item>
+                        </list>
+                     </p>
+                     <p>Indifferent <hi>in ſe,</hi> but <hi>ratione pacis, obedientiae uniformitatis</hi> to be practiſed, they might be left undone, if Authority had not ſet a <hi>Fiat.</hi> Now Conſcience beſpeakes a neceſſity of practiſe and obſer<g ref="char:EOLhyphen"/>vance; though opinion proclaimes them indifferent.</p>
+                     <p>My Concluſion is an <hi>Apostrophe</hi> to God and man: Firſt, <hi>Ariſe O God, maintaine thine owne cauſe, &amp;c.</hi> Pſal. 74. 2 laſt verſ. <hi>lift up thy feet, &amp;c.</hi> ver. 3. <hi>Doe good in thy good pleaſure unto Zion, Pſal.</hi> 51.18.</p>
+                     <p>Secondly, Returne, returne, <hi>O Shulamite,</hi> &amp;c. <hi>Cant.</hi> 6.13. <hi>How long yee ſimple ones will ye love ſimplicitie? Prov.</hi> 1.22.23. Take heed of reſigning Devotion, wholly to the humour and pleaſure of one man, for feare it be Deſolate, or Ridiculous, Weake, or Wil<g ref="char:EOLhyphen"/>full; for feare you be guided at laſt, and fed with ſimplicitie, or ſingularitie; a Foole or a crack'd-phanſie be the bane of the Church. Take heed of taking away the <hi>dayly Sacrifice,</hi> for feare the <hi>Abomination that maketh deſolate</hi> ſtand in the roome. Doe not labour to ſweepe the Church cleane of Publique Formes,<note place="margin">Dan. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</note> for feare of bringing in ſeven worſe Spirits of an evill Spirits
+<pb n="41" facs="tcp:112744:24"/>contriving; <hi>Be not ouer-much of wiſe,</hi>
+                        <note place="margin">Eccle. 7.16.</note> wiſer then God that made the Church a Houſe of Common-Prayer, and Chriſt that gave it this Forme; <hi>After this manner therefore pray ye: Our Father.</hi>
+                     </p>
+                     <closer>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</closer>
+                  </div>
+               </div>
+               <div type="to_the_reader">
+                  <p>
+                     <hi>READER,</hi> I intend onely to Vindicate my Doctrine, my Copies in the Sudie, and deliveries in the Congrega<g ref="char:EOLhyphen"/>tion; other Articles of malignitie and offenſive language I neglect and leave to the credit of my Accuſers; whoſe perſons are ſo ill-qualified, their Reputations ſo low and tain<g ref="char:EOLhyphen"/>ted, that I am ſure it will be more diſgrace for any man to beleeve them, then for me to be accuſed by them.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
